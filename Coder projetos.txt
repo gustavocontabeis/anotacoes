@@ -1,0 +1,64 @@
+cd /home/gustavo/dev/workspace-coder/
+mkdir coder-poc-hello-jsp
+cd coder-poc-hello-jsp
+mvn archetype:generate -DgroupId=br.com.codersistemas.pochellojsp -DartifactId=poc-hello-jsp -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DinteractiveMode=false
+cd /home/gustavo/dev/workspace-coder/
+git pull github master
+git push --force -u github master
+gustavocontabeis@gmail.com
+
+cd /home/gustavo/dev/workspace-coder/
+mkdir coder-poc-hello-jsp-bd
+cd coder-poc-hello-jsp-bd
+mvn archetype:generate -DgroupId=br.com.codersistemas.pochellojspbd -DartifactId=coder-poc-hello-jsp-bd -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DinteractiveMode=false
+git pull github master
+git push --force -u github master
+gustavocontabeis@gmail.com
+
+
+Bibliotecas:
+	coder-lib
+
+POC:
+	coder-poc-hello-jsp
+	coder-poc-hello-jsp-bd
+	coder-poc-jsp-login
+	coder-poc-jsp-upload
+	coder-poc-jsf-login
+	coder-poc-jsf-crud
+
+Arquiteturas
+	coder-arq-spring
+	coder-arq-gem
+	coder-gem-angular
+	coder-gem-spring-boot
+
+coder-projetos
+	coder-dev-tools
+		utilitário online para desenvolvimento.
+		gerador de StringBuilder, JPQL, Upper/LowerCase
+	coder-site
+		site do www.codersistemas.com.br
+	coder-mms
+		Robô para gerenciar transações de bitcoins
+	coder-letras-musica
+		Armazena letras traduzidas
+	coder-blog
+		Armazena as postagens de um blog de tecnologia
+	coder-brassagens
+		Gerencia uma fábrica de cerveja.
+	coder-tarefas
+		Organiza as tarefas diárias
+	coder-loja
+		Loja feita com AngularJS
+	coder-quizz
+		Organiza os estudos a faz um quizz de perguntas e respostas para fixar o conhecimento
+	coder-contabil
+		Projeto de balancete contábil
+		
+Esrutura dos projetos:
+	De acordo com a sua arquitetura:
+	
+	Java
+	
+	
