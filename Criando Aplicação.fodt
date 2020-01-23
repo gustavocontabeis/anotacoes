@@ -1,119 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2019-12-30T22:01:43.536127398</dc:date><meta:editing-duration>P1DT2H40M14S</meta:editing-duration><meta:editing-cycles>147</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="208" meta:word-count="1255" meta:character-count="9420" meta:non-whitespace-character-count="7835"/></office:meta>
+ <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/5.4.1.2$Windows_X86_64 LibreOffice_project/ea7cb86e6eeb2bf3a5af73a8f7777ac570321527</meta:generator><dc:date>2020-01-23T18:38:26.282000000</dc:date><meta:editing-duration>P1DT2H42M15S</meta:editing-duration><meta:editing-cycles>148</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="211" meta:word-count="1269" meta:character-count="9507" meta:non-whitespace-character-count="7911"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">62045</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">72409</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">25054</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14951</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18787</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13143</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17870</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">65357</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">1113</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">73330</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">62045</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">25053</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">76994</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">72409</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">18785</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">85550</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">90</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">1122625</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">19062716</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1122625</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">19092202</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -404,78 +403,87 @@
    <style:text-properties officeooo:rsid="00c96764" officeooo:paragraph-rsid="00c96764"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:rsid="00d3490f" officeooo:paragraph-rsid="00d3490f"/>
+   <style:text-properties officeooo:rsid="00c96764" officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:rsid="00d58473" officeooo:paragraph-rsid="00d58473"/>
+   <style:text-properties officeooo:rsid="00d3490f" officeooo:paragraph-rsid="00d3490f"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:rsid="00e5afa9" officeooo:paragraph-rsid="00e5afa9"/>
+   <style:text-properties officeooo:rsid="00d58473" officeooo:paragraph-rsid="00d58473"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00e17dac"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00e378f8" officeooo:paragraph-rsid="00e378f8"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00e5afa9" officeooo:paragraph-rsid="00e5afa9"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="011a3557" officeooo:paragraph-rsid="011a3557"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
    <style:text-properties officeooo:paragraph-rsid="011c7802"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00e378f8" officeooo:paragraph-rsid="00e378f8"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00e5afa9" officeooo:paragraph-rsid="00e5afa9"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="011a3557" officeooo:paragraph-rsid="011a3557"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -483,139 +491,143 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="011dce85"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:text-properties officeooo:rsid="00c96764" officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="012352ea" officeooo:paragraph-rsid="012352ea"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00a9b320"/>
@@ -862,36 +874,36 @@
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
       <text:p text:style-name="Contents_20_Heading">Conteúdo</text:p>
      </text:index-title>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc838_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando projeto spring boot<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc840_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Desenvolvimento<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc842_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Teste<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc534_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc844_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc862_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">XXXXXXXXXXXXXXXXXX<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular-CLI<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc530_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc532_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando node + npm<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular-CLI<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc540_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Corrigindo erros:<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P36"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc542_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando aplicação Angular<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc674_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Antes de começar:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc676_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Workspace e estutura do projeto:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc678_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando a aplicação:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc208_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Subindo a aplicação:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc210_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Compilando a aplicação:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc212_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o componente:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc214_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o router:<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc548_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Módulos:<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P37"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc550_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lazy loading:<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc838_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando projeto spring boot<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc840_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Desenvolvimento<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc842_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Teste<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc534_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc844_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc862_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">XXXXXXXXXXXXXXXXXX<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular-CLI<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc530_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc532_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando node + npm<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular-CLI<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc540_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Corrigindo erros:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc542_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando aplicação Angular<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc674_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Antes de começar:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc676_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Workspace e estutura do projeto:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P38"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc678_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando a aplicação:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc208_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Subindo a aplicação:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc210_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Compilando a aplicação:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc212_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o componente:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc214_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o router:<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc548_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Módulos:<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc550_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lazy loading:<text:tab/>8</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P57" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
-   <text:h text:style-name="P61" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
-   <text:h text:style-name="P67" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Backend<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
+   <text:h text:style-name="P75" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
+   <text:h text:style-name="P58" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
+   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Backend<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc838_1429466318"/>Gerando projeto spring boot<text:bookmark-end text:name="__RefHeading___Toc838_1429466318"/></text:h>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body">br.com.codersistemas</text:p>
@@ -899,53 +911,57 @@
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Data JPA</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.</text:span></text:a></text:p>
-   <text:list xml:id="list2652719539" text:style-name="L1">
+   <text:list xml:id="list217464656" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P55"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">PostgreSQL Driver</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.</text:span></text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">PostgreSQL Driver</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">H2 Database</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.</text:span></text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">H2 Database</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Web</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.</text:span></text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Web</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Boot DevTools</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides fast application restarts, LiveReload, and configurations for enhanced development experience.</text:span></text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Boot DevTools</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides fast application restarts, LiveReload, and configurations for enhanced development experience.</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P55"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Rest Repositories</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Exposing Spring Data repositories over REST via Spring Data REST.</text:span></text:a></text:p>
+     <text:p text:style-name="P63"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Rest Repositories</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Exposing Spring Data repositories over REST via Spring Data REST.</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Lombok</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Java annotation library which helps to reduce boilerplate code.</text:span></text:a></text:p>
+     <text:p text:style-name="P65"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Lombok</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Java annotation library which helps to reduce boilerplate code.</text:span></text:a></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P51"><text:span text:style-name="T20"/></text:p>
-   <text:p text:style-name="P53"><text:span text:style-name="T20">Faça o download da aplicação.</text:span></text:p>
-   <text:p text:style-name="P53"><text:span text:style-name="T20">Descompacte</text:span></text:p>
-   <text:p text:style-name="P53"><text:span text:style-name="T20">Importe para o eclipse</text:span></text:p>
-   <text:list xml:id="list220145397352434" text:continue-numbering="true" text:style-name="L1">
+   <text:p text:style-name="P66"/>
+   <text:p text:style-name="P67">Faça o download da aplicação.</text:p>
+   <text:p text:style-name="P67">Descompacte</text:p>
+   <text:p text:style-name="P67">Importe para o eclipse</text:p>
+   <text:list xml:id="list183827972550239" text:continue-numbering="true" text:style-name="L1">
     <text:list-header>
-     <text:p text:style-name="P55"><text:span text:style-name="T20"/></text:p>
+     <text:p text:style-name="P64"/>
     </text:list-header>
    </text:list>
-   <text:h text:style-name="P75" text:outline-level="3"><text:soft-page-break/>Versionando no GitHub</text:h>
-   <text:h text:style-name="P74" text:outline-level="3"><text:span text:style-name="T24">Gerando</text:span> Banco de Dados de Desenvolvimento <text:span text:style-name="T24">com PostgreSQL</text:span></text:h>
-   <text:h text:style-name="P74" text:outline-level="3">Configurando Banco de Dados de Desenvolvimento</text:h>
-   <text:h text:style-name="P74" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc842_1429466318"/>Configurando Banco de Dados de Teste <text:span text:style-name="T24">com H2</text:span><text:bookmark-end text:name="__RefHeading___Toc842_1429466318"/></text:h>
-   <text:p text:style-name="P54"/>
-   <text:p text:style-name="P54"/>
-   <text:h text:style-name="P67" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc534_5560082221"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc534_5560082221"/></text:h>
-   <text:h text:style-name="P67" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc844_1429466318"/>Deploy<text:bookmark-end text:name="__RefHeading___Toc844_1429466318"/></text:h>
-   <text:p text:style-name="P54"/>
-   <text:p text:style-name="P54"/>
-   <text:p text:style-name="P54"/>
-   <text:h text:style-name="P61" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc862_1429466318"/>XXXXXXXXXXXXXXXXXX<text:bookmark-end text:name="__RefHeading___Toc862_1429466318"/></text:h>
-   <text:h text:style-name="P67" text:outline-level="2"/>
-   <text:h text:style-name="P68" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc536_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular<text:bookmark-end text:name="__RefHeading___Toc536_5560082221"/></text:h>
-   <text:h text:style-name="P42" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc538_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular-CLI<text:bookmark-end text:name="__RefHeading___Toc538_5560082221"/></text:h>
+   <text:h text:style-name="P46" text:outline-level="3"><text:soft-page-break/>Versionando no GitHub</text:h>
+   <text:h text:style-name="P45" text:outline-level="3"><text:span text:style-name="T24">Gerando</text:span> Banco de Dados de Desenvolvimento <text:span text:style-name="T24">com PostgreSQL</text:span></text:h>
+   <text:h text:style-name="P45" text:outline-level="3">Configurando Banco de Dados de Desenvolvimento</text:h>
+   <text:h text:style-name="P45" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc842_1429466318"/>Configurando Banco de Dados de Teste <text:span text:style-name="T24">com H2</text:span><text:bookmark-end text:name="__RefHeading___Toc842_1429466318"/></text:h>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
+   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc534_5560082221"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc534_5560082221"/></text:h>
+   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc844_1429466318"/>Deploy<text:bookmark-end text:name="__RefHeading___Toc844_1429466318"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Preparando o banco de dados</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Instalando backend como serviço no linux</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Configurando o NGINX</text:h>
+   <text:p text:style-name="P62"/>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
+   <text:h text:style-name="P58" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc862_1429466318"/>XXXXXXXXXXXXXXXXXX<text:bookmark-end text:name="__RefHeading___Toc862_1429466318"/></text:h>
+   <text:h text:style-name="P52" text:outline-level="2"/>
+   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc536_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular<text:bookmark-end text:name="__RefHeading___Toc536_5560082221"/></text:h>
+   <text:h text:style-name="P47" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc538_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular-CLI<text:bookmark-end text:name="__RefHeading___Toc538_5560082221"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">npm install -g @angular/cli</text:p>
-   <text:p text:style-name="P24"/>
-   <text:h text:style-name="P47" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc530_556008222"/>Atualizando<text:bookmark-end text:name="__RefHeading___Toc530_556008222"/></text:h>
+   <text:p text:style-name="P25"/>
+   <text:h text:style-name="P54" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc530_556008222"/>Atualizando<text:bookmark-end text:name="__RefHeading___Toc530_556008222"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc532_556008222"/>Atualizando node <text:span text:style-name="T21">+ npm</text:span><text:bookmark-end text:name="__RefHeading___Toc532_556008222"/></text:h>
    <text:p text:style-name="Contents_20_1"><text:bookmark-start text:name="__RefHeading___Toc534_556008222"/>https://medium.com/@dleitee/atualizando-o-node-js-para-sua-%C3%BAltima-vers%C3%A3o-8119a7f872a4<text:bookmark-end text:name="__RefHeading___Toc534_556008222"/></text:p>
    <text:p text:style-name="Contents_20_1"/>
@@ -989,9 +1005,9 @@
    <text:p text:style-name="code">V12.13.0</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc536_556008222"/>Atualizando angular<text:bookmark-end text:name="__RefHeading___Toc536_556008222"/></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc538_556008222"/>Atualizando angular-CLI<text:bookmark-end text:name="__RefHeading___Toc538_556008222"/></text:h>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P28"><text:soft-page-break/>Verificando a versão do Angular:</text:p>
-   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P29"><text:soft-page-break/>Verificando a versão do Angular:</text:p>
+   <text:p text:style-name="P29"/>
    <text:p text:style-name="code">gustavo@foguetinho:~/dev/Angular/meu-crud$ ng --version</text:p>
    <text:p text:style-name="code"/>
    <text:p text:style-name="code"><text:s text:c="5"/>_ <text:s text:c="21"/>_ <text:s text:c="16"/>____ _ <text:s text:c="4"/>___</text:p>
@@ -1025,38 +1041,38 @@
    <text:p text:style-name="code">rxjs <text:s text:c="29"/>6.3.3</text:p>
    <text:p text:style-name="code">typescript <text:s text:c="23"/>3.2.4</text:p>
    <text:p text:style-name="code">webpack <text:s text:c="26"/>4.29.0</text:p>
-   <text:h text:style-name="P49" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc540_556008222"/>Corrigindo erros:<text:bookmark-end text:name="__RefHeading___Toc540_556008222"/></text:h>
-   <text:p text:style-name="P27">Parando o servidore do angular: </text:p>
-   <text:p text:style-name="P20"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">sudo kill $(sudo lsof -t -i:4200)</text:span></text:span></text:p>
-   <text:p text:style-name="P27"/>
-   <text:h text:style-name="P43" text:outline-level="2"/>
-   <text:h text:style-name="P50" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc542_556008222"/>Gerando aplicação Angular<text:bookmark-end text:name="__RefHeading___Toc542_556008222"/></text:h>
-   <text:h text:style-name="P44" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc674_732925190"/>Antes de começar:<text:bookmark-end text:name="__RefHeading___Toc674_732925190"/></text:h>
-   <text:p text:style-name="P25">Verifique a versão do angular. Este tutorial foi escrito na versão 7.</text:p>
-   <text:h text:style-name="P45" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc676_732925190"/>Workspace e estutura do projeto:<text:bookmark-end text:name="__RefHeading___Toc676_732925190"/></text:h>
-   <text:p text:style-name="P26">No angular você desenvolve com workspace. Um workspace possul um ou mais projetos. Um projeto é uma estrutura padrão de arquivos que gera uma aplicação, uma biblioteca e testes end-to-end (e2e).</text:p>
-   <text:h text:style-name="P46" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc678_732925190"/>Gerando a aplicação:<text:bookmark-end text:name="__RefHeading___Toc678_732925190"/></text:h>
+   <text:h text:style-name="P56" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc540_556008222"/>Corrigindo erros:<text:bookmark-end text:name="__RefHeading___Toc540_556008222"/></text:h>
+   <text:p text:style-name="P28">Parando o servidore do angular: </text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">sudo kill $(sudo lsof -t -i:4200)</text:span></text:span></text:p>
+   <text:p text:style-name="P28"/>
+   <text:h text:style-name="P48" text:outline-level="2"/>
+   <text:h text:style-name="P57" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc542_556008222"/>Gerando aplicação Angular<text:bookmark-end text:name="__RefHeading___Toc542_556008222"/></text:h>
+   <text:h text:style-name="P49" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc674_732925190"/>Antes de começar:<text:bookmark-end text:name="__RefHeading___Toc674_732925190"/></text:h>
+   <text:p text:style-name="P26">Verifique a versão do angular. Este tutorial foi escrito na versão 7.</text:p>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc676_732925190"/>Workspace e estutura do projeto:<text:bookmark-end text:name="__RefHeading___Toc676_732925190"/></text:h>
+   <text:p text:style-name="P27">No angular você desenvolve com workspace. Um workspace possul um ou mais projetos. Um projeto é uma estrutura padrão de arquivos que gera uma aplicação, uma biblioteca e testes end-to-end (e2e).</text:p>
+   <text:h text:style-name="P51" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc678_732925190"/>Gerando a aplicação:<text:bookmark-end text:name="__RefHeading___Toc678_732925190"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">Aqui <text:span text:style-name="T22">esta a documentação do Angular CLI (Command Line Interface) </text:span><text:a xlink:type="simple" xlink:href="https://angular.io/cli/new" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://angular.io/cli/new</text:a>.</text:p>
    <text:p text:style-name="Preformatted_20_Text"/>
    <text:p text:style-name="Preformatted_20_Text"/>
    <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="P77"><text:span text:style-name="T1">n</text:span>g new minha-app</text:p>
-   <text:p text:style-name="P56"/>
+   <text:p text:style-name="P37"><text:span text:style-name="T1">n</text:span>g new minha-app</text:p>
+   <text:p text:style-name="P18"/>
    <text:p text:style-name="P17">Será criado uma <text:span text:style-name="T15">p</text:span>asta com o nome do projeto e todos os arquivos necessário para o próprio. Os demais comandos no terminal devem ser a partir desta pasta principal. Não deve ser a partir da apsta app ou src <text:span text:style-name="T11">para evitar que os arquivos sejam criados em locais não esperados.</text:span></text:p>
-   <text:p text:style-name="P19">Na raiz da aplicação são criados os arquivos de configuração:</text:p>
-   <text:p text:style-name="P19">angular.json</text:p>
-   <text:p text:style-name="P19">package.json</text:p>
-   <text:p text:style-name="P19">jtconfig.json</text:p>
+   <text:p text:style-name="P20">Na raiz da aplicação são criados os arquivos de configuração:</text:p>
+   <text:p text:style-name="P20">angular.json</text:p>
+   <text:p text:style-name="P20">package.json</text:p>
+   <text:p text:style-name="P20">jtconfig.json</text:p>
    <text:p text:style-name="P17"/>
-   <text:p text:style-name="P18">Parametro routing</text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T1">n</text:span>g new minha-app --routing=true</text:p>
-   <text:p text:style-name="P30">cd minha-app</text:p>
+   <text:p text:style-name="P19">Parametro routing</text:p>
+   <text:p text:style-name="P37"><text:span text:style-name="T1">n</text:span>g new minha-app --routing=true</text:p>
+   <text:p text:style-name="P32">cd minha-app</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc208_1813736803"/>Subindo a aplicação:<text:bookmark-end text:name="__RefHeading___Toc208_1813736803"/></text:h>
    <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g <text:span text:style-name="T2">serve</text:span></text:p>
-   <text:p text:style-name="P21">Temos un alias para facilitar</text:p>
-   <text:p text:style-name="P30">ou ng s</text:p>
-   <text:p text:style-name="P21">Pu podemos setar um parâmetro para qual o ambiente queremos buildar a aplicação antes (conforme arquivos de configuração “enviroment”</text:p>
-   <text:p text:style-name="P30">ou ng s eng=des</text:p>
+   <text:p text:style-name="P22">Temos un alias para facilitar</text:p>
+   <text:p text:style-name="P32">ou ng s</text:p>
+   <text:p text:style-name="P22">Pu podemos setar um parâmetro para qual o ambiente queremos buildar a aplicação antes (conforme arquivos de configuração “enviroment”</text:p>
+   <text:p text:style-name="P32">ou ng s eng=des</text:p>
    <text:p text:style-name="P16">O parâmetro -–open abre o browser assim que aplicação sobe e fecha o browser assom que a aplicação fecha.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc210_1813736803"/>Compilando a aplicação:<text:bookmark-end text:name="__RefHeading___Toc210_1813736803"/></text:h>
    <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g <text:span text:style-name="T2">build</text:span></text:p>
@@ -1065,7 +1081,7 @@
    <text:p text:style-name="P7">ou</text:p>
    <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g g c meuComponente</text:p>
    <text:p text:style-name="P12">ou <text:span text:style-name="T23">para não gerar arquivos de testes</text:span></text:p>
-   <text:p text:style-name="P31">ng g c meuComponente --skipTests=true</text:p>
+   <text:p text:style-name="P33">ng g c meuComponente --skipTests=true</text:p>
    <text:p text:style-name="P14"/>
    <text:p text:style-name="P14">O que ocorre ao execucar o comentoa cima? Conforme o log abaixo, são gerados quatro arquivos. Um html, um css, um controller em TypeScript e uma classe de teste deste controller.</text:p>
    <text:p text:style-name="P15">Também é atualizado o appModule que é o módulo principal da aplicação. O componente recém criado é adicionado no array “declarations”. <text:span text:style-name="T4">Na Anotação @NgModule possuímos alguns atributos como declarations, imports, providers e bootstrap. Falaremos sobre módulos mais adiante.</text:span></text:p>
@@ -1076,7 +1092,7 @@
    <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.spec.ts (635 bytes)</text:p>
    <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.ts (273 bytes)</text:p>
    <text:p text:style-name="code">UPDATE src/app/app.module.ts (630 bytes)</text:p>
-   <text:h text:style-name="P39" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc214_1813736803"/>Gerando o router:<text:bookmark-end text:name="__RefHeading___Toc214_1813736803"/></text:h>
+   <text:h text:style-name="P42" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc214_1813736803"/>Gerando o router:<text:bookmark-end text:name="__RefHeading___Toc214_1813736803"/></text:h>
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">ng generate module app-routing --flat –module=app</text:span></text:p>
    <text:p text:style-name="P9"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Gera um módulo de rotas e atualiza o appModule.</text:span></text:span></text:p>
    <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Crie uma constant do tipo Routes e coloque as rotas nele.</text:span></text:span></text:p>
@@ -1084,35 +1100,35 @@
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">import { Routes, RouterModule } from &apos;@angular/router&apos;;</text:span></text:p>
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">const routes: Routes = [</text:span></text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;menu&apos;, component: MenuComponent},</text:span></text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;home&apos;, component: HomeComponent},</text:span></text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;usuario&apos;, component: UsuarioComponent},</text:span></text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;*&apos;, redirectTo: &apos;/home&apos;}</text:span></text:p>
-   <text:p text:style-name="P31"><text:span text:style-name="Source_20_Text">];</text:span></text:p>
-   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;menu&apos;, component: MenuComponent},</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;home&apos;, component: HomeComponent},</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;usuario&apos;, component: UsuarioComponent},</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;*&apos;, redirectTo: &apos;/home&apos;}</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Source_20_Text">];</text:span></text:p>
+   <text:p text:style-name="P35"/>
    <text:p text:style-name="P10"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P10"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T6">Adicione nos imports.</text:span></text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="Source_20_Text">imports: [</text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="Source_20_Text"><text:tab/>CommonModule, RouterModule.forRoot(routes)</text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="Source_20_Text">],</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text">imports: [</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text"><text:tab/>CommonModule, RouterModule.forRoot(routes)</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text">],</text:span></text:p>
    <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Agora coloque ele no exports.</text:span></text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="Source_20_Text">exports: [RouterModule]</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text">exports: [RouterModule]</text:span></text:p>
    <text:p text:style-name="P11"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P11"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Agora coloque appcomponent.html o cara responsável por exibir o conteúdo da rota selecionada.</text:span></text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="Source_20_Text">&lt;router-outlet&gt;&lt;/router-outlet&gt;</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Source_20_Text">&lt;router-outlet&gt;&lt;/router-outlet&gt;</text:span></text:p>
    <text:p text:style-name="P13"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://angular.io/tutorial/toh-pt5" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Source_20_Text">https://angular.io/tutorial/toh-pt5</text:span></text:a></text:p>
    <text:p text:style-name="P7"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P8"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Criando links:</text:span></text:span></text:p>
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">&lt;a routerLink=&quot;configuracao&quot;&gt;Configuração&lt;/a&gt;</text:span></text:p>
-   <text:h text:style-name="P40" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc548_556008222"/><text:span text:style-name="T10">Módulos</text:span>:<text:bookmark-end text:name="__RefHeading___Toc548_556008222"/></text:h>
-   <text:p text:style-name="P22"><text:span text:style-name="T13">O módulo é uma forma de agrupar vários componentes, services, diretivas pipes etc… </text:span>Todo componente precisa estar dento de um múdulo. O módulo principal é o AppModule. Ao criar o projeto com ng new o AppModule é criado. Para criar um módulo usamos o comando ng generate module nomeDoModulo. Depois é preciso adicionar o componende no módulo e no AppModule é necessario retirar o componente e colocar o módulo.</text:p>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P34">ng g<text:span text:style-name="T11">enerate </text:span>module usuario</text:p>
+   <text:h text:style-name="P43" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc548_556008222"/><text:span text:style-name="T10">Módulos</text:span>:<text:bookmark-end text:name="__RefHeading___Toc548_556008222"/></text:h>
+   <text:p text:style-name="P23"><text:span text:style-name="T13">O módulo é uma forma de agrupar vários componentes, services, diretivas pipes etc… </text:span>Todo componente precisa estar dento de um múdulo. O módulo principal é o AppModule. Ao criar o projeto com ng new o AppModule é criado. Para criar um módulo usamos o comando ng generate module nomeDoModulo. Depois é preciso adicionar o componende no módulo e no AppModule é necessario retirar o componente e colocar o módulo.</text:p>
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P36">ng g<text:span text:style-name="T11">enerate </text:span>module usuario</text:p>
    <text:p text:style-name="code">CREATE src/app/usuario/usuario.module.spec.ts (283 bytes)</text:p>
    <text:p text:style-name="code">CREATE src/app/usuario/usuario.module.ts (191 bytes)</text:p>
-   <text:h text:style-name="P41" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc550_556008222"/>Lazy loading:<text:bookmark-end text:name="__RefHeading___Toc550_556008222"/></text:h>
+   <text:h text:style-name="P44" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc550_556008222"/>Lazy loading:<text:bookmark-end text:name="__RefHeading___Toc550_556008222"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">Sem o lazyLoading, todos os arquivos javascript são baixados de uma única vez causando um esforço desnecessário. O LazyLoading faz com que a aplicação carregue os arquivos por demanda. Muito útil para aplicações grandes.</text:p>
    <text:p text:style-name="Preformatted_20_Text">No exemplo utilizaremos o componente usuário <text:span text:style-name="T8">que já foi criado anteriormente.</text:span></text:p>
    <text:p text:style-name="Preformatted_20_Text">Cri<text:span text:style-name="T7">e</text:span> o m<text:span text:style-name="T7">ó</text:span>dul<text:span text:style-name="T7">o usuário</text:span></text:p>
