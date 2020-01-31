@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2019-02-04T17:19:11.040654216</meta:creation-date><meta:generator>LibreOffice/5.4.1.2$Windows_X86_64 LibreOffice_project/ea7cb86e6eeb2bf3a5af73a8f7777ac570321527</meta:generator><meta:editing-duration>PT6H48M27S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><dc:date>2020-01-23T19:14:17.142000000</dc:date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="248" meta:word-count="1168" meta:character-count="8401" meta:non-whitespace-character-count="7290"/></office:meta>
+ <office:meta><meta:creation-date>2019-02-04T17:19:11.040654216</meta:creation-date><meta:generator>LibreOffice/5.4.1.2$Windows_X86_64 LibreOffice_project/ea7cb86e6eeb2bf3a5af73a8f7777ac570321527</meta:generator><meta:editing-duration>PT7H1M42S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><dc:date>2020-01-29T19:49:48.112000000</dc:date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="264" meta:word-count="1225" meta:character-count="8757" meta:non-whitespace-character-count="7603"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">134447</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">133738</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">15372</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">10753</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30237</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17537</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3845</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">141307</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6618</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">141206</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">134447</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">15371</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">145198</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">133738</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30235</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151273</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -83,7 +83,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">17089242</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">17181286</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -125,6 +125,7 @@
  <office:font-face-decls>
   <style:font-face style:name="Helvetica Neue" svg:font-family="&apos;Helvetica Neue&apos;, Helvetica, Arial, sans-serif"/>
   <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="monospace" svg:font-family="monospace"/>
   <style:font-face style:name="Courier New1" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-adornments="Normal" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
@@ -473,65 +474,108 @@
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#333333" style:font-name="Helvetica Neue" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01048524" officeooo:paragraph-rsid="01048524"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0104c2da"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_4">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Contents_20_4">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="15.503cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="00c7d895"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0103ee05"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="01048524" officeooo:paragraph-rsid="01048524"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0104c2da"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_4">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="01048524"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0103ee05"/>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="01048524"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_4">
    <style:text-properties officeooo:paragraph-rsid="01048524"/>
   </style:style>
   <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:list-style-name="L1"/>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:paragraph-rsid="01062a66"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="00c7d895"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0103ee05"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01048524"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="15.503cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0104c2da" officeooo:paragraph-rsid="0104c2da"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0105e118" officeooo:paragraph-rsid="0105e118"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:color="#ce181e"/>
@@ -577,6 +621,21 @@
   </style:style>
   <style:style style:name="T15" style:family="text">
    <style:text-properties officeooo:rsid="0104c2da"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="0105e118"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0d0a0b" style:font-name="monospace" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#0d0a0b" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="01062a66" fo:background-color="#f8f9fa" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#0d0a0b" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="bold" fo:background-color="#f8f9fa" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="01062a66"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -770,34 +829,47 @@
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
       <text:p text:style-name="Contents_20_Heading">Conteúdo</text:p>
      </text:index-title>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc267_1861820060" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P41"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc982_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manual do PostgreSQL<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc984_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Administração de banco de dados:<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1020_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalação no Debian/Ubuntu:<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1036_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando acesso remoto:<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1022_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Longando via terminal:<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc986_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Usuários:<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1971_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando um usuário comum:<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1973_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criar uma senha<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc988_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Banco de dados:<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2023_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Listando os bando de dados<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2025_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criar um banco de dados<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1237_2118196385" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Schemas<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1239_2118196385" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Tabelas<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc990_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Dump:<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Restauração:<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc612_1374681512" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manutenção de dados:<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P40"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc614_1374681512" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando o BD de uma aplicação:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc267_1861820060" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc982_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manual do PostgreSQL<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc984_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Administração de banco de dados:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1020_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalação no Debian/Ubuntu:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1036_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando acesso remoto:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1728_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Longando via terminal:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1730_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Windows:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1732_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Linux:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc986_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Usuários:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1734_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Usuário UNIX:<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1971_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando um usuário comum:<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1973_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criar uma senha<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1736_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Usuário Simples:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1738_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando o acesso:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1740_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando o usuário:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1742_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Logando no Postgres via terminal:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1744_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Banco de dados:<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2023_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Listando os bando de dados<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2025_2473785249" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criar um banco de dados<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1237_2118196385" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Schemas<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1239_2118196385" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Tabelas<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc990_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Dump:<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc992_440679031" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Restauração:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc612_1374681512" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Manutenção de dados:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1746_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Verificanto o database atual:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1748_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Conectando em um bando de dados:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1750_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Listando schemas<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1752_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Conectando a schemas<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1754_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Listango tabelas:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1756_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Executando consultas:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P42"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc614_1374681512" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando o BD de uma aplicação:<text:tab/>6</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P53" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:reference-mark text:name="SenhaRoot"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
-   <text:h text:style-name="P45" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc982_440679031"/>Manual do PostgreSQL<text:bookmark-end text:name="__RefHeading___Toc982_440679031"/></text:h>
+   <text:h text:style-name="P54" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:reference-mark text:name="SenhaRoot"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
+   <text:h text:style-name="P47" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc982_440679031"/>Manual do PostgreSQL<text:bookmark-end text:name="__RefHeading___Toc982_440679031"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">Este manual tem como objetivo a administração de PostgreSQL via terminal para administração de servidores na nuvem.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc984_440679031"/>Administração de banco de dados:<text:bookmark-end text:name="__RefHeading___Toc984_440679031"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1020_440679031"/>Instalação no Debian/Ubuntu:<text:bookmark-end text:name="__RefHeading___Toc1020_440679031"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">Conforme documentação oficial:</text:p>
    <text:p text:style-name="Preformatted_20_Text"/>
-   <text:list xml:id="list549441761" text:style-name="L1">
+   <text:list xml:id="list4139377627" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P52">Configurar o repositório do postgres no ubuntu:</text:p>
      <text:list>
@@ -833,11 +905,11 @@
    <text:p text:style-name="code">(1 row)</text:p>
    <text:p text:style-name="code"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1036_440679031"/>Configurando acesso remoto:<text:bookmark-end text:name="__RefHeading___Toc1036_440679031"/></text:h>
-   <text:h text:style-name="P46" text:outline-level="3">Longando via terminal:</text:h>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:span text:style-name="T13">Windows</text:span>:</text:h>
+   <text:h text:style-name="P48" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1728_3770173281"/>Longando via terminal:<text:bookmark-end text:name="__RefHeading___Toc1728_3770173281"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1730_3770173281"/><text:span text:style-name="T13">Windows</text:span>:<text:bookmark-end text:name="__RefHeading___Toc1730_3770173281"/></text:h>
    <text:p text:style-name="P33">cd C:\Program Files\PostgreSQL\9.6\bin&gt;</text:p>
    <text:p text:style-name="P33">psql -U <text:span text:style-name="T13">postgres</text:span></text:p>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:span text:style-name="T13">Linux</text:span>:</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1732_3770173281"/><text:span text:style-name="T13">Linux</text:span>:<text:bookmark-end text:name="__RefHeading___Toc1732_3770173281"/></text:h>
    <text:p text:style-name="P24">Logando no postgres <text:span text:style-name="T2">com a senha do usuário logado</text:span>:</text:p>
    <text:p text:style-name="P32">psql -h hostname -p 5432 -d dbname -U username -W</text:p>
    <text:p text:style-name="P21"/>
@@ -863,7 +935,7 @@
    <text:p text:style-name="code">sudo <text:span text:style-name="T3">su – postgres</text:span></text:p>
    <text:p text:style-name="P25">psql</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc986_440679031"/>Usuários:<text:bookmark-end text:name="__RefHeading___Toc986_440679031"/></text:h>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4">Usuário UNIX:</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1734_3770173281"/>Usuário UNIX:<text:bookmark-end text:name="__RefHeading___Toc1734_3770173281"/></text:h>
    <text:p text:style-name="P8">Tipos de usuário:</text:p>
    <text:p text:style-name="P13"><text:soft-page-break/>Você pode verificar o tipo do usuário pelo prompt exibido após o nme do mesmo.</text:p>
    <text:p text:style-name="P8">Superusuário: #</text:p>
@@ -956,8 +1028,8 @@
    <text:p text:style-name="Preformatted_20_Text"/>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"/>
    <text:h text:style-name="Heading_20_4" text:outline-level="4"/>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4">Usuário Simples:</text:h>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4">Configurando o acesso:</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1736_3770173281"/>Usuário Simples:<text:bookmark-end text:name="__RefHeading___Toc1736_3770173281"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1738_3770173281"/>Configurando o acesso:<text:bookmark-end text:name="__RefHeading___Toc1738_3770173281"/></text:h>
    <text:p text:style-name="P22">Importante: para utilizar um usuário simples é necessário atualizar o pg_hba.conf </text:p>
    <text:p text:style-name="P22"><text:span text:style-name="Source_20_Text"/></text:p>
    <text:p text:style-name="P22">gustavo@gustavo-caixa:~$ sudo vi /etc/postgresql/9.6/main/pg_hba.conf </text:p>
@@ -972,7 +1044,7 @@
    <text:p text:style-name="P23"><text:span text:style-name="Source_20_Text">local <text:s/>all <text:s text:c="5"/>all <text:s text:c="9"/>md5</text:span></text:p>
    <text:p text:style-name="P23"/>
    <text:p text:style-name="P22"/>
-   <text:h text:style-name="Heading_20_4" text:outline-level="4">Criando o usuário:</text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1740_3770173281"/>Criando o usuário:<text:bookmark-end text:name="__RefHeading___Toc1740_3770173281"/></text:h>
    <text:p text:style-name="P22"/>
    <text:p text:style-name="P22">gustavo@gustavo-caixa:~$ su - postgres</text:p>
    <text:p text:style-name="P22">Password: </text:p>
@@ -998,15 +1070,15 @@
    <text:p text:style-name="code"/>
    <text:p text:style-name="code">user1bd=&gt; </text:p>
    <text:p text:style-name="Preformatted_20_Text"/>
-   <text:h text:style-name="P51" text:outline-level="3"><text:span text:style-name="T14">Logando no Postgres via terminal</text:span>:</text:h>
-   <text:p text:style-name="P47">Windows:</text:p>
+   <text:h text:style-name="P49" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1742_3770173281"/><text:span text:style-name="T14">Logando no Postgres via terminal</text:span>:<text:bookmark-end text:name="__RefHeading___Toc1742_3770173281"/></text:h>
+   <text:p text:style-name="P40">Windows:</text:p>
    <text:p text:style-name="code">cd c:\Program Files\PostgreSQL\9.6\bin</text:p>
    <text:p text:style-name="code">psql -U postgres template1</text:p>
-   <text:p text:style-name="P47"/>
-   <text:p text:style-name="P47">Linux:</text:p>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40">Linux:</text:p>
    <text:p text:style-name="code">psql -U postgres template1</text:p>
-   <text:h text:style-name="P51" text:outline-level="3"><text:soft-page-break/>Banco de dados:</text:h>
-   <text:h text:style-name="P49" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2023_2473785249"/>Listando os bando de dados<text:bookmark-end text:name="__RefHeading___Toc2023_2473785249"/></text:h>
+   <text:h text:style-name="P49" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1744_3770173281"/><text:soft-page-break/>Banco de dados:<text:bookmark-end text:name="__RefHeading___Toc1744_3770173281"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2023_2473785249"/>Listando os bando de dados<text:bookmark-end text:name="__RefHeading___Toc2023_2473785249"/></text:h>
    <text:p text:style-name="code">SELECT datname FROM pg_database;</text:p>
    <text:p text:style-name="P6">Ou</text:p>
    <text:p text:style-name="code">\l</text:p>
@@ -1032,16 +1104,19 @@
    <text:p text:style-name="code">drop database dbname;</text:p>
    <text:p text:style-name="Preformatted_20_Text"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1237_2118196385"/>Schemas<text:bookmark-end text:name="__RefHeading___Toc1237_2118196385"/></text:h>
-   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P53">Listando as <text:span text:style-name="T20">schemas</text:span>:</text:p>
+   <text:p text:style-name="code">\dn</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1239_2118196385"/>Tabelas<text:bookmark-end text:name="__RefHeading___Toc1239_2118196385"/></text:h>
    <text:p text:style-name="Preformatted_20_Text">Listando as tabelas:</text:p>
-   <text:p text:style-name="Preformatted_20_Text">\dt</text:p>
+   <text:p text:style-name="code">\dt</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc990_440679031"/>Dump:<text:bookmark-end text:name="__RefHeading___Toc990_440679031"/></text:h>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P48"><text:span text:style-name="T15">Windows:</text:span></text:p>
-   <text:p text:style-name="P48">c:\Program Files\PostgreSQL\9.6\bin&gt;pg_dump.exe --dbname=bd_coder_gem_api --host localhost --port 5432 --username usr_coder_gem_api --format plain --data-only --inserts --column-inserts <text:s/>--file c:\home\teste1.sql</text:p>
-   <text:p text:style-name="Text_20_body">Senha: pwd_coder_gem_api</text:p>
+   <text:p text:style-name="P63">Windows:</text:p>
+   <text:p text:style-name="P64">cd c:\Program Files\PostgreSQL\9.6\bin</text:p>
+   <text:p text:style-name="code">c:\Program Files\PostgreSQL\9.6\bin&gt;pg_dump.exe –dbname=bd_coder_gem_api --host localhost --port 5432 --username usr_coder_gem_api --format plain --inserts --column-inserts <text:s/>--file c:\home\teste1.sql</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Senha: pwd_coder_gem_api <text:span text:style-name="T16">(copiar, botão direito, enter)</text:span></text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Preformatted_20_Text">Dump (backup) de um banco de dados</text:p>
    <text:p text:style-name="Preformatted_20_Text">pg_dump dbname -h localhost -U postgres &gt; backup.sql</text:p>
@@ -1063,25 +1138,25 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc992_440679031"/><text:soft-page-break/>Restauração:<text:bookmark-end text:name="__RefHeading___Toc992_440679031"/></text:h>
    <text:p text:style-name="P5">Restauração de um banco de dados (a partir de um arquivo SQL)</text:p>
    <text:p text:style-name="P5">psql dbname -h localhost -U postgres &lt; backup.sql</text:p>
-   <text:h text:style-name="P44" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc612_1374681512"/>Manutenção de dados:<text:bookmark-end text:name="__RefHeading___Toc612_1374681512"/></text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Verificanto o database atual:</text:h>
+   <text:h text:style-name="P46" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc612_1374681512"/>Manutenção de dados:<text:bookmark-end text:name="__RefHeading___Toc612_1374681512"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1746_3770173281"/>Verificanto o database atual:<text:bookmark-end text:name="__RefHeading___Toc1746_3770173281"/></text:h>
    <text:p text:style-name="code">select current_database();</text:p>
    <text:p text:style-name="Preformatted_20_Text">ou</text:p>
    <text:p text:style-name="code">\conninfo</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Conectando em um bando de dados:</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1748_3770173281"/>Conectando em um bando de dados:<text:bookmark-end text:name="__RefHeading___Toc1748_3770173281"/></text:h>
    <text:p text:style-name="code">\connect estudojsf </text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Listando schemas</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1750_3770173281"/>Listando schemas<text:bookmark-end text:name="__RefHeading___Toc1750_3770173281"/></text:h>
    <text:p text:style-name="P29"><text:span text:style-name="Source_20_Text">SELECT schema_name FROM information_schema.schemata;</text:span></text:p>
    <text:p text:style-name="Preformatted_20_Text">ou</text:p>
    <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">SELECT nspname FROM pg_catalog.pg_namespace;</text:span></text:p>
    <text:p text:style-name="P38"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Conectando a schemas</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Listango tabelas:</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1752_3770173281"/>Conectando a schemas<text:bookmark-end text:name="__RefHeading___Toc1752_3770173281"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1754_3770173281"/>Listango tabelas:<text:bookmark-end text:name="__RefHeading___Toc1754_3770173281"/></text:h>
    <text:p text:style-name="P37">Todas as tabelas de dotos os databases:</text:p>
    <text:p text:style-name="P39">Select * from pg_tables</text:p>
    <text:p text:style-name="P39"><text:tab/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Executando consultas:</text:h>
-   <text:h text:style-name="P44" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc614_1374681512"/><text:span text:style-name="T10">Criando o BD de uma aplicação</text:span>:<text:bookmark-end text:name="__RefHeading___Toc614_1374681512"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1756_3770173281"/>Executando consultas:<text:bookmark-end text:name="__RefHeading___Toc1756_3770173281"/></text:h>
+   <text:h text:style-name="P46" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc614_1374681512"/><text:span text:style-name="T10">Criando o BD de uma aplicação</text:span>:<text:bookmark-end text:name="__RefHeading___Toc614_1374681512"/></text:h>
    <text:p text:style-name="P16">Faça o dump da aplicação em ambiente de desenvolvimento.</text:p>
    <text:p text:style-name="P16"/>
    <text:p text:style-name="P16">Logue-se na VM.</text:p>
