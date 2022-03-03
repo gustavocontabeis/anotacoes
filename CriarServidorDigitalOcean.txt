@@ -1,0 +1,27 @@
+
+
+
+
+PlayList:
+
+Criar Droplet
+Registro de Domínio
+Subdomínios
+Docker
+SSL
+Email
+Etc...
+
+
+https://www.youtube.com/watch?v=88BLqzwTvF8&list=PLVSNL1PHDWvTVf53z6vNQbUqDL5BgpRJL
+
+
+SSL:
+	sudo add-apt-repository ppa:certbot/certbot
+	sudo apt-get update 
+	sudo apt-get install pyton-certbot-nginx
+	
+	
+	liberar no firewall
+		sudo ufw aoo list
+		

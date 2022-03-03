@@ -1,0 +1,194 @@
+Complete Email Server iRedMail Installation Tutorial
+https://www.youtube.com/watch?v=Heav-WfCHuw
+
+Conhecendo e Instalando o IredMail
+https://www.youtube.com/watch?v=bCgtNsEEcuI
+
+
+hostname -f
+mail
+
+se não for mail troque com
+sudo vi /etc/hostname
+
+De:
+
+127.0.0.1       localhost.localdomain   localhost
+::1             localhost6.localdomain6 localhost6
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+Para:
+sudo vi /etc/hosts
+127.0.0.1   mail.empresa.com mail localhost localhost.localdomain
+
+wget https://github.com/iredmail/iRedMail/releases/download/1.3.1/iRedMail-1.3.1.tar.gz
+ls -lah
+sudo tar -vzxf iRedMail-1.3.1.tar.gz
+ls -lah
+cd iRedMail-1.3.1/
+sudo bash iRedMail.sh 
+
+
+enter, enter, enter...
+OpenLDAP
+dc=empresa,dc=com
+123
+empresa.com
+123
+add Sogo
+*************************************************************************
+***************************** WARNING ***********************************
+*************************************************************************
+*                                                                       *
+* Below file contains sensitive infomation (username/password), please  *
+* do remember to *MOVE* it to a safe place after installation.          *
+*                                                                       *
+*   * /home/gustavo/iRedMail-1.3.1/config
+*                                                                       *
+*************************************************************************
+********************** Review your settings *****************************
+*************************************************************************
+
+* Storage base directory:               /var/vmail
+* Mailboxes:                            
+* Daily backup of SQL/LDAP databases:   
+* Store mail accounts in:               OpenLDAP
+* Web server:                           Nginx
+* First mail domain name:               empresa.com
+* Mail domain admin:                    postmaster@empresa.com
+* Additional components:                Roundcubemail SOGo netdata iRedAdmin Fail2ban
+
+< Question > Continue? [y|N]
+y
+firewal? y
+restart? y
+
+
+
+
+********************************************************************
+* URLs of installed web applications:
+*
+* - Roundcube webmail: https://mail.empresa.com/mail/
+* - SOGo groupware: https://mail.empresa.com/SOGo/
+* - netdata (monitor): https://mail.empresa.com/netdata/
+*
+* - Web admin panel (iRedAdmin): https://mail.empresa.com/iredadmin/
+*
+* You can login to above links with below credential:
+*
+* - Username: postmaster@empresa.com
+* - Password: 123
+*
+*
+********************************************************************
+* Congratulations, mail server setup completed successfully. Please
+* read below file for more information:
+*
+*   - /home/gustavo/iRedMail-1.3.1/iRedMail.tips
+*
+* And it's sent to your mail account postmaster@empresa.com.
+*
+********************* WARNING **************************************
+*
+* Please reboot your system to enable all mail services.
+*
+********************************************************************
+
+
+Acessar: https://192.168.0.27
+
+
+sudo vi /etc/hosts
+
+192.168.0.27 mail.empresa.com
+
+
+
+Acessar: https://mail.empresa.com/mail/
+Abriu? Ok.
+
+Então vai no IREdAdmin
+
+https://mail.empresa.com/iredadmin/
+Username: postmaster@empresa.com
+Password: 123
+
+
+
+
+
+sudo reboot
+
+
+* URLs of installed web applications:
+*
+* - Roundcube webmail: https://mail.codersistemas.com/mail/
+* - SOGo groupware: https://mail.codersistemas.com/SOGo/
+* - netdata (monitor): https://mail.codersistemas.com/netdata/
+*
+* - Web admin panel (iRedAdmin): https://mail.codersistemas.com/iredadmin/
+*
+* You can login to above links with below credential:
+*
+* - Username: postmaster@codersistemas.com
+* - Password: 123
+
+
+gustavo@codersistemas.com.br (12345678)
+flavi@codersistemas.com.br (12345678)
+admin@projetoroot.com.br (12345678)
+gustavo@projetoroot.com.br (12345678)
+
+
+
+::::::::::::: Setup de DNS ::::::::::::: 
+
+https://docs.iredmail.org/setup.dns.html
+
+Configurando os records "A, PTR, MX, SPF, DKIM, DMARC" para configurar o DNS para um serviço de email próprio:
+
+A e MX são obrigatórios. PTR, SPF, DKIM e DMARC são altamente recomendados.
+	
+A: Mapeia o nome completo do domínio para o IP. É o mais utilizado.
+
+	Como mapear o record "A"?
+		name: É o www ou sobdomínio. Se ele estiver em branco então só poderá ser acessado por mydomain.com. É um computador dentro do seu domínio. Seu nome de domínio é automaticamente anexado ao seu nome. Se você está tentando fazer um registro para o sistema www.mydomain.com. Então, tudo que você insere na caixa de texto para o valor do nome é www
+		IP: é o IP. Uma forma aonde computadores encontram itros computadores.
+		TTL:  Time to Live. É o tempo em segundos que o seu record estará em cache
+
+	Exemplo do record:
+	NAME                TTL     TYPE    DATA
+	www.mydomain.com.   1800    A       192.168.1.2
+	mail.mydomain.com.  1800    A       192.168.1.5
+
+PTR: (ou Reverse PTR)
+	É fluxo contrário do record A aoonde ele mapeia um IP para o hostname.
+	Por exemplo, ao procuar o IP 192.168.1.5 ele retornará o hostname mail.mydomain.com.
+	O PTR é muito utilizado por exempl para filtros de span.
+
+MX: Mail eXchanger, record para emails
+
+	Exemplo do record:
+	NAME            PRIORITY    TYPE    DATA
+	mydomain.com.   10          mx      mail.mydomain.com
+	
+	Quando você envia para alguem@mydomain.com, será encaminhado para mail.mydomain.com.
+
+SPF: record para Span e Phishing Fighting, luta conta span e fishing.
+	É um record do tipo TXT. Lodemos listar os IPs ou domínios MX nele.
+	
+	Exemplo:
+	mydomain.com.   3600    IN  TXT "v=spf1 mx -all"
+	
+	Significa enviar  para todos servidores no MX do domíno mydomain.com são permitidos enviar como alguem@mydomain.com.
+	
+DKIM:
+	
+	

@@ -1,119 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:date>2020-02-26T09:42:27.069796349</dc:date><meta:editing-duration>P1DT3H58M23S</meta:editing-duration><meta:editing-cycles>166</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="76" meta:word-count="1054" meta:character-count="9076" meta:non-whitespace-character-count="7485"/></office:meta>
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2021-11-06T13:57:34.649685847</dc:date><meta:editing-duration>P4DT8H11M42S</meta:editing-duration><meta:editing-cycles>242</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="324" meta:word-count="1410" meta:character-count="11764" meta:non-whitespace-character-count="10358"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">67882</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">501</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32501</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">18479</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">397</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">27072</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13695</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="InBrowseMode" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8160</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">75842</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">501</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">67882</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">33001</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">86358</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3648</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">4507</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">397</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">27070</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14090</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">1122625</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
    <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">37093717</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">21637315</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1122625</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -132,25 +143,27 @@
   <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
   <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-adornments="Normal" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="FreeMono1" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-adornments="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-adornments="Normal" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Monospace" svg:font-family="Monospace" style:font-adornments="Normal" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
   </style:default-style>
   <style:default-style style:family="table">
    <style:table-properties table:border-model="collapsing"/>
@@ -166,15 +179,17 @@
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="115%"/>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Caption" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="115%"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
   </style:style>
-  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" style:page-number="auto" style:shadow="none" text:number-lines="false" text:line-number="0">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-style="normal" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
@@ -203,6 +218,14 @@
    <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
   <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0">
     <style:tab-stops>
@@ -224,6 +247,10 @@
      <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
@@ -274,6 +301,19 @@
    <style:paragraph-properties fo:background-color="#333333" style:writing-mode="page"/>
    <style:text-properties fo:color="#579d1c" style:font-name="Courier New" fo:font-family="&apos;Courier New&apos;" style:font-style-name="Normal" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt"/>
   </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Text" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Text_20_Body_20_coder" style:display-name="Text Body coder" style:family="paragraph" style:parent-style-name="Text_20_body"/>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
@@ -289,6 +329,9 @@
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -348,6 +391,9 @@
   <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
@@ -454,34 +500,91 @@
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0125ea57"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01603612"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01603612" officeooo:paragraph-rsid="01603612"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="021c608d"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="021cf25f"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="021b89a2" officeooo:paragraph-rsid="021b89a2"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="021bd0e8" officeooo:paragraph-rsid="021bd0e8"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="021c608d" officeooo:paragraph-rsid="021c608d"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="021cf25f" officeooo:paragraph-rsid="021cf25f"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="022179d9" officeooo:paragraph-rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="022ad5d8" officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="022ad5d8" officeooo:paragraph-rsid="02317332"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="022ad749"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="02357545"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="011c7802"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="0125d57f"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="0127b4da"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -489,7 +592,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="0127b4da"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -497,7 +600,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="012c3359"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -505,7 +608,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="012d9e2d"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -513,7 +616,23 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="012efef9"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="code">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.088cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="014a28c3"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="code">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.088cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="01878c1f"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -521,10 +640,10 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="0127b4da" officeooo:paragraph-rsid="0127b4da"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="012bb60e"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="code">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.088cm"/>
@@ -532,28 +651,87 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="012c3359" officeooo:paragraph-rsid="012efef9"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="01603612"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0219b849"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="021c608d"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="021cf25f"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#fff200"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#fff200" officeooo:paragraph-rsid="021cf25f"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#fff200" officeooo:paragraph-rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="022dcd53"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="022fc6e0" officeooo:paragraph-rsid="022fc6e0"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="02312070" officeooo:paragraph-rsid="02312070"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="022bf77a" officeooo:paragraph-rsid="022dcd53"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="02317332"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -561,124 +739,198 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="011dce85"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0125ea57"/>
   </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="0125ea57"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="02183f9f" officeooo:paragraph-rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
   </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
    <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="014b1756" officeooo:paragraph-rsid="014b1756" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:padding="0cm" loext:border="none"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="022179d9"/>
   </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="022ad5d8" officeooo:paragraph-rsid="022ad5d8"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="022ad749"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#4444cc" style:font-name="Monospace" fo:font-size="11pt" officeooo:paragraph-rsid="022ad749" style:font-size-asian="11pt"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0125ea57"/>
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022bf77a" officeooo:paragraph-rsid="022bf77a"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022bf77a" officeooo:paragraph-rsid="022fc6e0"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="code">
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022c17de" officeooo:paragraph-rsid="022c17de"/>
+  </style:style>
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022dcd53" officeooo:paragraph-rsid="022dcd53"/>
+  </style:style>
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022fc6e0" officeooo:paragraph-rsid="022fc6e0"/>
+  </style:style>
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="02312070" officeooo:paragraph-rsid="02312070"/>
+  </style:style>
+  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="1.088cm"/>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties officeooo:paragraph-rsid="014a28c3"/>
+  </style:style>
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="19.5cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
+  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_Body_20_coder">
+   <style:text-properties officeooo:rsid="022dcd53" officeooo:paragraph-rsid="02360155"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00a9b320"/>
@@ -773,6 +1025,63 @@
   <style:style style:name="T31" style:family="text">
    <style:text-properties officeooo:rsid="014a28c3"/>
   </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="0152f960"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="01603612"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="021cf25f"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:color="#fff200"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties style:font-name="FreeMono1"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties style:font-name="FreeMono1" officeooo:rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties style:font-name="FreeMono1" officeooo:rsid="02183f9f"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties officeooo:rsid="022179d9"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="022ad5d8"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties officeooo:rsid="022ad749"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties officeooo:rsid="022bf77a"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:color="#4444cc" style:font-name="Monospace" fo:font-size="11pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-size-asian="11pt"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:color="#4444cc" style:font-name="Monospace" fo:font-size="11pt" style:font-size-asian="11pt"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="022dcd53"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="02312070"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties officeooo:rsid="0232b804"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="02357545"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties officeooo:rsid="02360155"/>
+  </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
     <style:columns fo:column-count="1" fo:column-gap="0cm"/>
@@ -811,7 +1120,7 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="0.612cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="0.612cm" fo:margin-right="0.889cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
@@ -842,12 +1151,12 @@
     <text:variable-decls>
      <text:variable-decl office:value-type="float" text:name="SenhaRoot"/>
     </text:variable-decls>
-    <text:p text:style-name="P3"><text:variable-set text:name="SenhaRoot" text:formula="ooow:Gustavo1978" office:value-type="float" office:value="0" style:data-style-name="N0"/><text:date style:data-style-name="N30" text:date-value="2018-10-12T22:08:06.972219496" text:fixed="true">12/10/18</text:date><text:s/>- <text:page-number text:select-page="current">0</text:page-number></text:p>
+    <text:p text:style-name="P3"><text:variable-set text:name="SenhaRoot" text:formula="ooow:Gustavo1978" office:value-type="float" office:value="0" style:data-style-name="N0"/><text:date style:data-style-name="N30" text:date-value="2018-10-12T22:08:06.972219496" text:fixed="true">12/10/18</text:date><text:s/>- <text:page-number text:select-page="current">11</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:variable-decls>
     <text:variable-decl office:value-type="float" text:name="SenhaRoot"/>
@@ -857,6 +1166,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:table-of-content text:style-name="Sect1" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="10">
@@ -946,115 +1256,397 @@
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
       <text:p text:style-name="Contents_20_Heading">Conteúdo</text:p>
      </text:index-title>
-     <text:p text:style-name="P51"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc838_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando projeto spring boot<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc318_1777476268" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Versionando no GitHub<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc889_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando Banco de Dados de Desenvolvimento com PostgreSQL<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc891_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Desenvolvimento<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc842_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando Banco de Dados de Teste com H2<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc534_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P50"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc844_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc893_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Preparando o banco de dados<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc895_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalando backend como serviço no linux<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc897_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando o NGINX<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P89"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc838_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando projeto spring boot<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc318_1777476268" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Versionando no GitHub<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc534_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P89"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc844_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy – sem docker<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc893_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Preparando o banco de dados<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc6086_367390978" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc895_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalando backend como serviço no linux<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc6088_367390978" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc897_3770173281" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Configurando o NGINX<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P89"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5626_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy com Docker<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5628_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Montagem da Máquina<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5630_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalação do docker<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1681_685359436" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Preparação de ambiente<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1683_685359436" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fazer a atualização do artefato e enviar:<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5632_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Deploy local dos artefatos<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5634_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Backend<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P92"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5636_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Frontend<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5638_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Envio dos artefatos para o servidor<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P87"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc5640_3673909781" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Subir o docker com os artefatos<text:tab/>11</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P82" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
-   <text:h text:style-name="P72" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
-   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Backend<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:p>
+   <text:h text:style-name="P114" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Backend<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc838_1429466318"/>Gerando projeto spring boot<text:bookmark-end text:name="__RefHeading___Toc838_1429466318"/></text:h>
-   <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="Text_20_body">br.com.codersistemas</text:p>
-   <text:p text:style-name="Text_20_body">coder-gem-api</text:p>
-   <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Data JPA</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.</text:span></text:a></text:p>
-   <text:list xml:id="list1611181386" text:style-name="L1">
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5324_367390978"/>Utilize a URL gerada pelo botão “SHARE”<text:bookmark-end text:name="__RefHeading___Toc5324_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5326_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/#!type=maven-project&amp;language=java&amp;platformVersion=2.3.1.RELEASE&amp;packaging=jar&amp;jvmVersion=1.8&amp;groupId=br.com.codersistemas&amp;artifactId=coder-poc-generate-cli-app&amp;name=coder-poc-generate-cli-app&amp;packageName=br.com.codersistemas.coderpocgeneratecliapp&amp;dependencies=data-jpa,postgresql,h2,web,devtools,data-rest,lombok" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://start.spring.io/#!type=maven-project&amp;language=java&amp;platformVersion=2.3.1.RELEASE&amp;packaging=jar&amp;jvmVersion=1.8&amp;groupId=br.com.codersistemas&amp;artifactId=coder-poc-generate-cli-app&amp;name=coder-poc-generate-cli-app&amp;packageName=br.com.codersistemas.coderpocgeneratecliapp&amp;dependencies=data-jpa,postgresql,h2,web,devtools,data-rest,lombok</text:a><text:bookmark-end text:name="__RefHeading___Toc5326_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5328_367390978"/>Ou...<text:bookmark-end text:name="__RefHeading___Toc5328_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5330_367390978"/>https://start.spring.io/<text:bookmark-end text:name="__RefHeading___Toc5330_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5332_367390978"/>br.com.codersistemas<text:bookmark-end text:name="__RefHeading___Toc5332_367390978"/></text:p>
+   <text:p text:style-name="P129">s</text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5334_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">Spring Data JPA</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Persist data in SQL stores with Java Persistence API using Spring Data and Hibernate.</text:a><text:bookmark-end text:name="__RefHeading___Toc5334_367390978"/></text:p>
+   <text:list xml:id="list1268295444" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">PostgreSQL Driver</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.</text:span></text:a></text:p>
+     <text:p text:style-name="P146"><text:bookmark-start text:name="__RefHeading___Toc5336_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">PostgreSQL Driver</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">A JDBC and R2DBC driver that allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.</text:a><text:bookmark-end text:name="__RefHeading___Toc5336_367390978"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">H2 Database</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.</text:span></text:a></text:p>
+     <text:p text:style-name="P146"><text:bookmark-start text:name="__RefHeading___Toc5338_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">H2 Database</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Provides a fast in-memory database that supports JDBC API and R2DBC access, with a small (2mb) footprint. Supports embedded and server modes as well as a browser based console application.</text:a><text:bookmark-end text:name="__RefHeading___Toc5338_367390978"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Web</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.</text:span></text:a></text:p>
+     <text:p text:style-name="P146"><text:bookmark-start text:name="__RefHeading___Toc5340_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">Spring Web</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Build web, including RESTful, applications using Spring MVC. Uses Apache Tomcat as the default embedded container.</text:a><text:bookmark-end text:name="__RefHeading___Toc5340_367390978"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Spring Boot DevTools</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Provides fast application restarts, LiveReload, and configurations for enhanced development experience.</text:span></text:a></text:p>
+     <text:p text:style-name="P146"><text:bookmark-start text:name="__RefHeading___Toc5342_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">Spring Boot DevTools</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Provides fast application restarts, LiveReload, and configurations for enhanced development experience.</text:a><text:bookmark-end text:name="__RefHeading___Toc5342_367390978"/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Rest Repositories</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Exposing Spring Data repositories over REST via Spring Data REST.</text:span></text:a></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P80"><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T18">Lombok</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T19"><text:line-break/></text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">Java annotation library which helps to reduce boilerplate code.</text:span></text:a></text:p>
+     <text:p text:style-name="P146"><text:bookmark-start text:name="__RefHeading___Toc5344_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">Rest Repositories</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Exposing Spring Data repositories over REST via Spring Data REST.</text:a><text:bookmark-end text:name="__RefHeading___Toc5344_367390978"/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P76"/>
-   <text:p text:style-name="P77">Faça o download da aplicação.</text:p>
-   <text:p text:style-name="P77">Descompacte</text:p>
-   <text:p text:style-name="P77">Importe para o eclipse</text:p>
-   <text:h text:style-name="P59" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc318_1777476268"/>Versionando no GitHub<text:bookmark-end text:name="__RefHeading___Toc318_1777476268"/></text:h>
-   <text:p text:style-name="P33"/>
-   <text:p text:style-name="code">git init</text:p>
-   <text:p text:style-name="Standard"><text:line-break/><text:line-break/><text:tab/><text:tab/>em projeto java adicionar o git ignore padrão<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>vi .gitignore<text:line-break/><text:tab/><text:tab/>.classpath<text:line-break/><text:tab/><text:tab/>.gitignore<text:line-break/> <text:s text:c="7"/>.project<text:line-break/> <text:s text:c="7"/>.settings/<text:line-break/> <text:s text:c="7"/>target/<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>congigurar os dados globais<text:line-break/><text:tab/><text:tab/>git config --global user.name &quot;Gustavo da Silva&quot;<text:line-break/><text:tab/><text:tab/>git config --global user.email gustavocontabeis@gmail.com<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>git status<text:line-break/><text:tab/><text:tab/>git add .<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>Vá no github e crie o repositório e envie.<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:tab/>git commit -m &quot;first commit&quot;<text:line-break/><text:tab/><text:tab/><text:tab/>git remote add github https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/><text:tab/>git push -u github master<text:line-break/><text:tab/><text:line-break/><text:tab/><text:tab/>https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.<text:line-break/><text:tab/><text:tab/>…or create a new repository on the command line<text:line-break/><text:tab/><text:tab/> echo &quot;# coder-libis&quot; &gt;&gt; README.md<text:line-break/><text:tab/><text:tab/> <text:line-break/><text:tab/><text:tab/>git init<text:line-break/><text:tab/><text:tab/>git add README.md<text:line-break/><text:tab/><text:tab/>git commit -m &quot;first commit&quot;<text:line-break/><text:tab/><text:tab/>git remote add origin https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>git push -u origin master<text:line-break/><text:tab/><text:tab/>…or push an existing repository from the command line<text:line-break/><text:tab/><text:tab/> git remote add origin https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>git push -u origin master<text:line-break/><text:tab/><text:tab/>…or import code from another repository<text:line-break/><text:tab/><text:tab/>You can initialize this repository with code from a Subversion, Mercurial, or TFS project.<text:line-break/></text:p>
-   <text:h text:style-name="P57" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc889_3770173281"/><text:span text:style-name="T25">Gerando</text:span> Banco de Dados de Desenvolvimento <text:span text:style-name="T25">com PostgreSQL</text:span><text:bookmark-end text:name="__RefHeading___Toc889_3770173281"/></text:h>
-   <text:h text:style-name="P57" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc891_3770173281"/>Configurando Banco de Dados de Desenvolvimento<text:bookmark-end text:name="__RefHeading___Toc891_3770173281"/></text:h>
-   <text:h text:style-name="P57" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc842_1429466318"/>Configurando Banco de Dados de Teste <text:span text:style-name="T25">com H2</text:span><text:bookmark-end text:name="__RefHeading___Toc842_1429466318"/></text:h>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P30"/>
-   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc534_5560082221"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc534_5560082221"/></text:h>
-   <text:p text:style-name="code"><text:line-break/>https://medium.com/trainingcenter/criando-uma-aplica%C3%A7%C3%A3o-internet-banking-com-angular-6-na-pr%C3%A1tica-e-sem-complica%C3%A7%C3%B5es-6fcbf98dcc12<text:line-break/><text:line-break/>Criando uma aplicação:<text:line-break/><text:line-break/><text:tab/># vá em &quot;https://angular.io/cli/new&quot; e veja as opções de configurações.<text:line-break/><text:tab/>por exemplo:<text:line-break/><text:tab/><text:tab/>--routing=true já cria o arquivo de rotas<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/>configure o git conforme abaixo.<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/>ng new <text:span text:style-name="T26">coder-gem-ui</text:span> --routing=true<text:line-break/><text:line-break/><text:tab/>cd <text:span text:style-name="T26">coder-gem-ui</text:span><text:line-break/><text:tab/><text:line-break/><text:tab/>Teste a aplicação:<text:line-break/><text:line-break/><text:tab/><text:tab/>ng s<text:span text:style-name="T26">erve –-open</text:span></text:p>
-   <text:p text:style-name="P42"><text:tab/><text:tab/><text:span text:style-name="T26">e</text:span></text:p>
-   <text:p text:style-name="P42"><text:tab/><text:tab/><text:span text:style-name="T26">ng build –-prod</text:span></text:p>
-   <text:p text:style-name="P42"><text:tab/><text:tab/></text:p>
-   <text:p text:style-name="P48"><text:tab/><text:tab/>para sair, ctrl+c<text:line-break/><text:tab/><text:line-break/><text:tab/>git status<text:line-break/><text:tab/>git add .<text:line-break/><text:tab/>git commit -m &quot;Primeiro commit&quot;<text:line-break/><text:tab/><text:line-break/><text:tab/>adicione o repositório remoto<text:line-break/><text:tab/>git push github master --force<text:line-break/><text:tab/><text:line-break/><text:tab/>Instale o Primefaces. Siga as intruções conforme &quot;https://www.primefaces.org/primeng/#/setup&quot;. Mas já adianto:<text:line-break/><text:line-break/><text:tab/><text:tab/><text:span text:style-name="T27">sudo </text:span>npm install primeng --save<text:line-break/><text:tab/><text:tab/><text:span text:style-name="T27">sudo </text:span>npm install primeicons --save<text:line-break/><text:tab/><text:tab/><text:span text:style-name="T27">sudo </text:span>npm install @angular/animations --save</text:p>
-   <text:p text:style-name="P48"><text:tab/><text:tab/><text:span text:style-name="T27">sudo </text:span>npm install @angular/cdk --save</text:p>
-   <text:p text:style-name="P48"><text:tab/><text:tab/><text:span text:style-name="T27">sudo </text:span>npm install primeflex --save</text:p>
-   <text:p text:style-name="P43"><text:line-break/><text:tab/><text:tab/><text:span text:style-name="T30">A</text:span>dicione os css... faça conforme a documentação!</text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"><text:tab/><text:span text:style-name="T26">Teste com/</text:span></text:p>
-   <text:p text:style-name="P47"><text:tab/>ng build --prod</text:p>
-   <text:p text:style-name="P43"><text:tab/><text:span text:style-name="T26">ng serve --open</text:span></text:p>
-   <text:p text:style-name="P88"><text:tab/><text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/>git status<text:line-break/><text:tab/>git add .<text:line-break/><text:tab/>git commit -m &quot;Adicionado o PrimeNG&quot;</text:p>
-   <text:p text:style-name="P88"/>
-   <text:p text:style-name="P88"/>
-   <text:p text:style-name="P88"><text:tab/><text:span text:style-name="T31">#em environment coloque a url</text:span></text:p>
-   <text:p text:style-name="P88"><text:tab/>export const environment = {</text:p>
-   <text:p text:style-name="P88"><text:tab/> <text:s/>production: false,</text:p>
-   <text:p text:style-name="P88"><text:tab/> <text:s/>apiUrl: &apos;http://localhost:8084/coder-gem&apos;</text:p>
-   <text:p text:style-name="P88"><text:tab/>};<text:line-break/><text:tab/><text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/>GERANDO O PRIMEIRO COMPONENT:<text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/><text:line-break/><text:tab/><text:tab/>ng generate component home<text:line-break/><text:line-break/><text:tab/><text:tab/>em app-routing.module.ts<text:line-break/><text:tab/><text:tab/><text:tab/>import { HomeComponent } from &apos;./home/home.component&apos;;<text:line-break/><text:tab/><text:tab/><text:tab/>const routes: Routes = [<text:line-break/><text:tab/><text:tab/><text:tab/> <text:s/>{ path: &apos;home&apos;, component: HomeComponent }<text:line-break/><text:tab/><text:tab/><text:tab/>];<text:line-break/><text:tab/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>Ajuste os imports<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:span text:style-name="T26">ng serve --open</text:span><text:line-break/><text:line-break/><text:tab/><text:tab/>Teste em:<text:line-break/><text:tab/><text:tab/><text:tab/>http://localhost:4200/home<text:line-break/><text:line-break/><text:tab/>configurando acesso http:<text:line-break/><text:tab/>no AppModule <text:s/>adicionar HttpClientModule<text:line-break/><text:line-break/><text:tab/><text:tab/>No app.module.ts adicione os componentes do primeng<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:tab/>import { HomeComponent } from &apos;./home/home.component&apos;;<text:line-break/><text:tab/><text:tab/><text:tab/>import { BrowserAnimationsModule } from &apos;@angular/platform-browser/animations&apos;; <text:tab/>!+++<text:line-break/><text:tab/><text:tab/><text:tab/>import { PanelModule } from &apos;node_modules/primeng/panel&apos;;<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>!+++<text:line-break/><text:line-break/><text:tab/><text:tab/><text:tab/>imports: [<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>BrowserModule,<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>AppRoutingModule,<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>BrowserAnimationsModule, <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>!+++<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>PanelModule<text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>!+++<text:line-break/><text:tab/><text:tab/><text:tab/>],<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>No home.component.html adicione as tags que exibitão o painel<text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:tab/>&lt;p-panel header=&quot;Home&quot;&gt;<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>Home works!<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;/p-panel&gt;<text:line-break/><text:tab/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>Teste em:<text:line-break/><text:tab/><text:tab/><text:tab/>ng s<text:line-break/><text:tab/><text:tab/><text:tab/>e teste em http://localhost:4200/home<text:line-break/><text:tab/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/><text:tab/>em app.component.html adicione:<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home Component&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:line-break/><text:tab/><text:tab/>Yeah!!!<text:line-break/><text:tab/><text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/>CRUD BÁSICO:<text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/>ng generate module pessoa --routing</text:p>
-   <text:p text:style-name="P45"><text:tab/><text:span text:style-name="T28">Verifique ou adicione caso necessário o PessoaModule no imports do AppModule</text:span></text:p>
-   <text:p text:style-name="P46"><text:line-break/><text:tab/>ng generate component <text:span text:style-name="T27">pessoa/add</text:span> --module=pessoa --skipTests=true</text:p>
-   <text:p text:style-name="P49"><text:tab/>ng generate component pessoa/filter --module=pessoa --skipTests=true</text:p>
-   <text:p text:style-name="P49"><text:tab/>ng generate component pessoa/list --module=pessoa --skipTests=true</text:p>
-   <text:p text:style-name="P49"><text:tab/>ng generate class pessoa/pessoa --skipTests=true<text:line-break/><text:tab/>Verifique ou adicione caso necessário o AddComponent, FilterComponent e ListComponent no declarations do PessoaModule</text:p>
-   <text:p text:style-name="P46"/>
-   <text:p text:style-name="P46"><text:tab/><text:line-break/><text:tab/>Em AppRoutingModule <text:span text:style-name="T29">Atualize as</text:span> rotas<text:line-break/><text:tab/>const routes: Routes = [</text:p>
-   <text:p text:style-name="P46"><text:tab/> <text:s/>{ path: &apos;home&apos;, component: HomeComponent },</text:p>
-   <text:p text:style-name="P46"><text:tab/> <text:s/>{ path: &apos;<text:span text:style-name="T28">pessoa</text:span>&apos;, loadChildren: &apos;./<text:span text:style-name="T28">pessoa</text:span>/<text:span text:style-name="T28">pessoa </text:span>.module#<text:span text:style-name="T28">Pessoa</text:span>Module&apos;},</text:p>
-   <text:p text:style-name="P46"><text:tab/> <text:s/>{ path: &apos;&apos;, redirectTo: &apos;home&apos;, pathMatch: &apos;full&apos;},</text:p>
-   <text:p text:style-name="P46"><text:tab/>];<text:line-break/><text:line-break/></text:p>
-   <text:p text:style-name="P46"><text:tab/><text:span text:style-name="T29">Atualizar o menu em app.component.html</text:span></text:p>
-   <text:p text:style-name="P46"><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home&lt;/a&gt; |</text:p>
-   <text:p text:style-name="P46"><text:tab/><text:tab/><text:tab/><text:tab/><text:span text:style-name="T29">Pessoa: </text:span><text:s/></text:p>
-   <text:p text:style-name="P46"><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;<text:span text:style-name="T28">pessoa/add</text:span>&quot;&gt;<text:span text:style-name="T28">Add</text:span>&lt;/a&gt; |<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;<text:span text:style-name="T28">pessoa/filter</text:span>&quot;&gt;<text:span text:style-name="T29">Pesquisar</text:span>&lt;/a&gt; |<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;<text:span text:style-name="T28">pessoa/list</text:span>&quot;&gt;<text:span text:style-name="T29">Listar</text:span>&lt;/a&gt; |<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:tab/></text:p>
-   <text:p text:style-name="P46"/>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P46">Criando a service:<text:line-break/><text:tab/><text:line-break/><text:tab/>ng generate service <text:span text:style-name="T28">pessoa/</text:span>pessoa --skipTests=true<text:line-break/><text:tab/><text:span text:style-name="T29">verifique/adicione o service em providers no module</text:span></text:p>
-   <text:p text:style-name="P46"><text:line-break/><text:tab/><text:line-break/><text:tab/><text:line-break/><text:tab/><text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/>MÓDULOS:<text:line-break/><text:tab/>------------------------------------------------------------<text:line-break/><text:tab/><text:line-break/><text:tab/><text:tab/>http://kazale.com/angular-2-modulos-ngmodule/<text:line-break/><text:tab/><text:tab/>https://medium.com/rocketseat/implementando-lazy-loading-no-angular-d8a6541c0580<text:line-break/><text:tab/><text:tab/>ng new lazy-app --routing<text:line-break/><text:tab/><text:tab/>cd .\lazy-app\<text:line-break/><text:tab/><text:tab/>ng generate component home<text:line-break/><text:tab/><text:tab/>ng generate module lazy --routing<text:line-break/><text:tab/><text:tab/><text:tab/>adiciona rotas em AppRoutingModule...<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>const routes: Routes = [<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;&apos;, redirectTo: &apos;home&apos;, pathMatch: &apos;full&apos;},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;home&apos;, component: HomeComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;lazy&apos;, loadChildren: &apos;./lazy/lazy.module#LazyModule&apos;}<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>];<text:line-break/><text:tab/><text:tab/>em app.component.html adicione:<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home Component&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;lazy&quot;&gt;Lazy Module&lt;/a&gt;<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:line-break/><text:tab/><text:tab/>cd src/app/lazy<text:line-break/><text:tab/><text:tab/>ng generate component sobre<text:line-break/><text:tab/><text:tab/>cd ../../..<text:line-break/><text:tab/><text:tab/>ng serve<text:line-break/><text:tab/><text:tab/>cd src/app/lazy<text:line-break/><text:tab/><text:tab/>ng generate component add<text:line-break/><text:tab/><text:tab/>ng generate component edit --routing<text:line-break/><text:tab/><text:tab/>ng generate component delete<text:line-break/><text:tab/><text:tab/>ng generate component list<text:line-break/><text:tab/><text:tab/><text:tab/>adiciona rotas em LazyRoutingModule...<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>const routes: Routes = [<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;&apos;, component: SobreComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;add&apos;, component: AddComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;edit&apos;, component: EditComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;delete&apos;, component: DeleteComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;list&apos;, component: ListComponent},<text:line-break/><text:tab/><text:tab/><text:tab/><text:tab/>];<text:line-break/><text:tab/><text:tab/>em sobre.component.html coloque<text:line-break/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:line-break/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;add&quot;&gt;add&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;edit&quot;&gt;edit&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;delete&quot;&gt;delete&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;list&quot;&gt;list&lt;/a&gt; | <text:line-break/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:line-break/><text:tab/><text:tab/>cd ../../..<text:line-break/><text:tab/><text:tab/>ng s<text:line-break/><text:line-break/><text:tab/><text:tab/><text:line-break/><text:tab/><text:tab/>ou ...<text:line-break/><text:tab/><text:tab/><text:tab/>ng g c pessoa/sobre --module=pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g c pessoa/add --module=pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g c pessoa/edit --module=pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g c pessoa/delete --module=pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g c pessoa/list --module=pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g class pessoa/pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/>ng g service pessoa/pessoa --skipTests=true<text:line-break/><text:tab/><text:tab/><text:tab/></text:p>
-   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc844_1429466318"/>Deploy<text:bookmark-end text:name="__RefHeading___Toc844_1429466318"/></text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc893_3770173281"/>Preparando o banco de dados<text:bookmark-end text:name="__RefHeading___Toc893_3770173281"/></text:h>
-   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5674_367390978"/><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Strong_20_Emphasis">Lombok</text:span></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:line-break/></text:a><text:a xlink:type="simple" xlink:href="https://start.spring.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Java annotation library which helps to reduce boilerplate code.</text:a><text:bookmark-end text:name="__RefHeading___Toc5674_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5676_367390978"/>Faça o download da aplicação.<text:bookmark-end text:name="__RefHeading___Toc5676_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5678_367390978"/>Descompacte<text:bookmark-end text:name="__RefHeading___Toc5678_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5680_367390978"/>Importe para o eclipse<text:bookmark-end text:name="__RefHeading___Toc5680_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5682_367390978"/>incluir o coder-libs<text:bookmark-end text:name="__RefHeading___Toc5682_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc318_1777476268"/><text:soft-page-break/>Versionando no GitHub<text:bookmark-end text:name="__RefHeading___Toc318_1777476268"/></text:h>
+   <text:p text:style-name="P80">git init</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5346_367390978"/>Em projeto java adicionar o git ignore padrão<text:bookmark-end text:name="__RefHeading___Toc5346_367390978"/></text:p>
+   <text:p text:style-name="P80">vi .gitignore</text:p>
+   <text:p text:style-name="P80">Colar o conteúdo</text:p>
+   <text:p text:style-name="P80">.classpath</text:p>
+   <text:p text:style-name="P80">.gitignore</text:p>
+   <text:p text:style-name="P80">.project</text:p>
+   <text:p text:style-name="P80">.settings/</text:p>
+   <text:p text:style-name="P80">target/</text:p>
+   <text:p text:style-name="P130"><text:line-break/><text:span text:style-name="T41">C</text:span>ongigurar os dados globais<text:line-break/></text:p>
+   <text:p text:style-name="P80">git config --global user.name &quot;Gustavo da Silva&quot;</text:p>
+   <text:p text:style-name="P80">git config --global user.email gustavocontabeis@gmail.com</text:p>
+   <text:p text:style-name="P80"/>
+   <text:p text:style-name="P80">git status</text:p>
+   <text:p text:style-name="P80">git add .</text:p>
+   <text:p text:style-name="P130"><text:line-break/><text:line-break/>Vá no github e crie o repositório e envie.<text:line-break/><text:line-break/><text:tab/>git commit -m &quot;first commit&quot;<text:line-break/><text:tab/>git remote add github https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/>git push -u github master<text:line-break/><text:tab/><text:line-break/><text:tab/><text:tab/>https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.<text:line-break/><text:tab/><text:tab/>…or create a new repository on the command line<text:line-break/><text:tab/><text:tab/> echo &quot;# coder-libis&quot; &gt;&gt; README.md<text:line-break/><text:tab/><text:tab/> <text:line-break/><text:tab/><text:tab/>git init<text:line-break/><text:tab/><text:tab/>git add README.md<text:line-break/><text:tab/><text:tab/>git commit -m &quot;first commit&quot;<text:line-break/><text:tab/><text:tab/>git remote add origin https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>git push -u origin master<text:line-break/><text:tab/><text:tab/>…or push an existing repository from the command line<text:line-break/><text:tab/><text:tab/> git remote add origin https://github.com/gustavocontabeis/coder-libs.git<text:line-break/><text:tab/><text:tab/>git push -u origin master<text:line-break/><text:tab/><text:tab/>…or import code from another repository<text:line-break/><text:tab/><text:tab/>You can initialize this repository with code from a Subversion, Mercurial, or TFS project.<text:line-break/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc889_3770173281"/>Gerando Banco de Dados de Desenvolvimento com PostgreSQL<text:bookmark-end text:name="__RefHeading___Toc889_3770173281"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc891_3770173281"/>Configurando Banco de Dados de Desenvolvimento<text:bookmark-end text:name="__RefHeading___Toc891_3770173281"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc842_1429466318"/>Configurando Banco de Dados de Teste com H2<text:bookmark-end text:name="__RefHeading___Toc842_1429466318"/></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc534_5560082221"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc534_5560082221"/></text:h>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5350_367390978"/><text:a xlink:type="simple" xlink:href="https://medium.com/trainingcenter/criando-uma-aplicação-internet-banking-com-angular-6-na-prática-e-sem-complicações-6fcbf98dcc12" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T41">h</text:span></text:a><text:a xlink:type="simple" xlink:href="https://medium.com/trainingcenter/criando-uma-aplicação-internet-banking-com-angular-6-na-prática-e-sem-complicações-6fcbf98dcc12" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ttps://medium.com/trainingcenter/criando-uma-aplica%C3%A7%C3%A3o-internet-banking-com-angular-6-na-pr%C3%A1tica-e-sem-complica%C3%A7%C3%B5es-6fcbf98dcc12</text:a><text:bookmark-end text:name="__RefHeading___Toc5350_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5352_367390978"/>Criando uma aplicação:<text:bookmark-end text:name="__RefHeading___Toc5352_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5354_367390978"/># vá em &quot;https://angular.io/cli/new&quot; e veja as opções de configurações.<text:bookmark-end text:name="__RefHeading___Toc5354_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5356_367390978"/>por exemplo:<text:bookmark-end text:name="__RefHeading___Toc5356_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5358_367390978"/><text:tab/>--routing=true já cria o arquivo de rotas<text:bookmark-end text:name="__RefHeading___Toc5358_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5360_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5360_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5692_367390978"/>ng new coder-gem-ui --routing=true --style css<text:bookmark-end text:name="__RefHeading___Toc5692_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5694_367390978"/>cd coder-gem-ui<text:bookmark-end text:name="__RefHeading___Toc5694_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5362_367390978"/>Verifique se a versão é a última. Senão atualize-a<text:bookmark-end text:name="__RefHeading___Toc5362_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5696_367390978"/>ng --version<text:bookmark-end text:name="__RefHeading___Toc5696_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5698_367390978"/>npm install --save-dev @angular/cli@latest<text:bookmark-end text:name="__RefHeading___Toc5698_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5700_367390978"/>ng --version<text:bookmark-end text:name="__RefHeading___Toc5700_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5364_367390978"/>Teste a aplicação:<text:bookmark-end text:name="__RefHeading___Toc5364_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5702_367390978"/>ng serve --open<text:bookmark-end text:name="__RefHeading___Toc5702_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5366_367390978"/>e<text:bookmark-end text:name="__RefHeading___Toc5366_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5704_367390978"/>ng build --prod<text:bookmark-end text:name="__RefHeading___Toc5704_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5368_367390978"/>para sair, ctrl+c<text:bookmark-end text:name="__RefHeading___Toc5368_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5370_367390978"/>Crie um link simbólico para o node_modules:<text:bookmark-end text:name="__RefHeading___Toc5370_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5372_367390978"/>Exclua o diretório atual<text:bookmark-end text:name="__RefHeading___Toc5372_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5706_367390978"/>sudo rm -r node_modules<text:bookmark-end text:name="__RefHeading___Toc5706_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5374_367390978"/>Substitua pelo link simbólico<text:bookmark-end text:name="__RefHeading___Toc5374_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5708_367390978"/>ln -s /home/gustavo/dev/node_modules <text:s/>node_modules<text:bookmark-end text:name="__RefHeading___Toc5708_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5376_367390978"/>Teste<text:bookmark-end text:name="__RefHeading___Toc5376_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5710_367390978"/>ng serve --open<text:bookmark-end text:name="__RefHeading___Toc5710_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5378_367390978"/>Versione<text:bookmark-end text:name="__RefHeading___Toc5378_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5712_367390978"/>git status<text:bookmark-end text:name="__RefHeading___Toc5712_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5714_367390978"/>git add .<text:bookmark-end text:name="__RefHeading___Toc5714_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5716_367390978"/>git commit -m &quot;Primeiro commit&quot;<text:bookmark-end text:name="__RefHeading___Toc5716_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5380_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5380_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5382_367390978"/>Adicione o repositório remoto<text:bookmark-end text:name="__RefHeading___Toc5382_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5718_367390978"/>git push github master --force<text:bookmark-end text:name="__RefHeading___Toc5718_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5384_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5384_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5386_367390978"/>Instale o Primefaces. Siga as intruções conforme &quot;https://www.primefaces.org/primeng/#/setup&quot;. Mas já adianto:<text:bookmark-end text:name="__RefHeading___Toc5386_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5720_367390978"/>sudo npm install primeng --save<text:bookmark-end text:name="__RefHeading___Toc5720_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5722_367390978"/>sudo npm install primeicons --save<text:bookmark-end text:name="__RefHeading___Toc5722_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5724_367390978"/>sudo npm install @angular/animations --save<text:bookmark-end text:name="__RefHeading___Toc5724_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5726_367390978"/>sudo npm install @angular/cdk --save<text:bookmark-end text:name="__RefHeading___Toc5726_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5728_367390978"/>sudo npm install primeflex --save<text:bookmark-end text:name="__RefHeading___Toc5728_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5730_367390978"/><text:soft-page-break/>sudo npm install rxjs-compat --save<text:bookmark-end text:name="__RefHeading___Toc5730_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5388_367390978"/>Adicione os css... faça conforme a <text:a xlink:type="simple" xlink:href="https://primefaces.org/primeng/showcase/#/setup" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">documentação!</text:a><text:bookmark-end text:name="__RefHeading___Toc5388_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5390_367390978"/>Teste com/<text:bookmark-end text:name="__RefHeading___Toc5390_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5732_367390978"/>ng build --prod<text:bookmark-end text:name="__RefHeading___Toc5732_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5734_367390978"/>ng serve --open<text:bookmark-end text:name="__RefHeading___Toc5734_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5392_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5392_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5394_367390978"/>Versione<text:tab/><text:bookmark-end text:name="__RefHeading___Toc5394_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5736_367390978"/>git status<text:bookmark-end text:name="__RefHeading___Toc5736_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5738_367390978"/>git add .<text:bookmark-end text:name="__RefHeading___Toc5738_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5740_367390978"/>git commit -m &quot;Adicionado o PrimeNG&quot;<text:bookmark-end text:name="__RefHeading___Toc5740_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5396_367390978"/>#em environment.ts coloque a url<text:bookmark-end text:name="__RefHeading___Toc5396_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5742_367390978"/><text:tab/>export const environment = {<text:bookmark-end text:name="__RefHeading___Toc5742_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5744_367390978"/><text:tab/> <text:s/>production: false,<text:bookmark-end text:name="__RefHeading___Toc5744_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5746_367390978"/><text:tab/> <text:s/>apiUrl: &apos;http://localhost:8084/coder-gem&apos;<text:bookmark-end text:name="__RefHeading___Toc5746_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5748_367390978"/><text:tab/>};<text:bookmark-end text:name="__RefHeading___Toc5748_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5398_367390978"/>Configurando acesso http:<text:bookmark-end text:name="__RefHeading___Toc5398_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5400_367390978"/>no AppModule <text:s/>adicionar HttpClientModule<text:bookmark-end text:name="__RefHeading___Toc5400_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5750_367390978"/>import { HttpClientModule } from &apos;@angular/common/http&apos;;<text:bookmark-end text:name="__RefHeading___Toc5750_367390978"/></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5402_367390978"/>No app.module.ts adicione os componentes do primeng em amarelo.<text:bookmark-end text:name="__RefHeading___Toc5402_367390978"/></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5752_367390978"/>import { FormsModule } from &apos;@angular/forms&apos;;<text:bookmark-end text:name="__RefHeading___Toc5752_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5754_367390978"/>import { HomeComponent } from &apos;./home/home.component&apos;;<text:bookmark-end text:name="__RefHeading___Toc5754_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5756_367390978"/>import { BrowserAnimationsModule } from &apos;@angular/platform-browser/animations&apos;;<text:bookmark-end text:name="__RefHeading___Toc5756_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5758_367390978"/>import { PanelModule } from &apos;node_modules/primeng/panel&apos;;<text:bookmark-end text:name="__RefHeading___Toc5758_367390978"/></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5760_367390978"/>imports: [<text:bookmark-end text:name="__RefHeading___Toc5760_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5762_367390978"/><text:tab/>BrowserModule,<text:bookmark-end text:name="__RefHeading___Toc5762_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5764_367390978"/><text:tab/>AppRoutingModule,<text:bookmark-end text:name="__RefHeading___Toc5764_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5766_367390978"/><text:tab/>FormsModule,<text:bookmark-end text:name="__RefHeading___Toc5766_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5768_367390978"/><text:tab/>BrowserAnimationsModule,<text:bookmark-end text:name="__RefHeading___Toc5768_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5770_367390978"/><text:tab/>PanelModule<text:bookmark-end text:name="__RefHeading___Toc5770_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5772_367390978"/>],<text:bookmark-end text:name="__RefHeading___Toc5772_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5404_367390978"/>Gerando o primeiro component<text:bookmark-end text:name="__RefHeading___Toc5404_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5406_367390978"/>Gere o component Home<text:bookmark-end text:name="__RefHeading___Toc5406_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5774_367390978"/>ng generate component home --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5774_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5408_367390978"/>Adicione ao app-routing.module.ts<text:bookmark-end text:name="__RefHeading___Toc5408_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5776_367390978"/>import { HomeComponent } from &apos;./home/home.component&apos;;<text:bookmark-end text:name="__RefHeading___Toc5776_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5778_367390978"/>const routes: Routes = [<text:bookmark-end text:name="__RefHeading___Toc5778_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5780_367390978"/><text:s/>{ path: &apos;home&apos;, component: HomeComponent }<text:bookmark-end text:name="__RefHeading___Toc5780_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5782_367390978"/>];<text:bookmark-end text:name="__RefHeading___Toc5782_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5784_367390978"/><text:tab/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5784_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5410_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5410_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5412_367390978"/>Ajuste os imports e teste<text:bookmark-end text:name="__RefHeading___Toc5412_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5786_367390978"/>ng serve --open<text:bookmark-end text:name="__RefHeading___Toc5786_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5414_367390978"/>Teste em:<text:bookmark-end text:name="__RefHeading___Toc5414_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5416_367390978"/><text:a xlink:type="simple" xlink:href="http://localhost:4200/home" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://localhost:4200/home</text:a><text:bookmark-end text:name="__RefHeading___Toc5416_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5418_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5418_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5420_367390978"/><text:soft-page-break/>No home.component.html adicione as tags que exibitão o painel<text:bookmark-end text:name="__RefHeading___Toc5420_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5422_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5422_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5788_367390978"/>&lt;p-panel header=&quot;Home&quot;&gt;<text:bookmark-end text:name="__RefHeading___Toc5788_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5790_367390978"/><text:tab/>Home works!<text:bookmark-end text:name="__RefHeading___Toc5790_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5792_367390978"/>&lt;/p-panel&gt;<text:bookmark-end text:name="__RefHeading___Toc5792_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5424_367390978"/><text:tab/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5424_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5426_367390978"/>Teste em:<text:bookmark-end text:name="__RefHeading___Toc5426_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5794_367390978"/>ng build --prod<text:bookmark-end text:name="__RefHeading___Toc5794_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5796_367390978"/>ng serve --open<text:bookmark-end text:name="__RefHeading___Toc5796_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5428_367390978"/><text:a xlink:type="simple" xlink:href="http://localhost:4200/home" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://localhost:4200/home</text:a><text:bookmark-end text:name="__RefHeading___Toc5428_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5430_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5430_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5432_367390978"/>em app.component.html adicione:<text:bookmark-end text:name="__RefHeading___Toc5432_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5798_367390978"/>&lt;nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5798_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5800_367390978"/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home Component&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5800_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5802_367390978"/>&lt;/nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5802_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5434_367390978"/>Yeah!!!<text:bookmark-end text:name="__RefHeading___Toc5434_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5436_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5436_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5438_367390978"/><text:tab/>------------------------------------------------------------<text:bookmark-end text:name="__RefHeading___Toc5438_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5440_367390978"/><text:tab/>CRUD BÁSICO:<text:bookmark-end text:name="__RefHeading___Toc5440_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5442_367390978"/><text:tab/>------------------------------------------------------------<text:bookmark-end text:name="__RefHeading___Toc5442_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5444_367390978"/><text:tab/>ng generate module pessoa --routing<text:bookmark-end text:name="__RefHeading___Toc5444_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5446_367390978"/>Verifique ou adicione caso necessário o PessoaModule no imports do AppModule<text:bookmark-end text:name="__RefHeading___Toc5446_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5448_367390978"/><text:tab/>ng generate component pessoa/add --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5448_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5450_367390978"/><text:tab/>ng generate component pessoa/filter --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5450_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5452_367390978"/><text:tab/>ng generate component pessoa/list --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5452_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5454_367390978"/><text:tab/>ng generate class pessoa/pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5454_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5456_367390978"/>Verifique ou adicione caso necessário o AddComponent, FilterComponent e ListComponent no declarations do PessoaModule<text:bookmark-end text:name="__RefHeading___Toc5456_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5458_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5458_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5460_367390978"/>Em AppRoutingModule Atualize as rotas<text:bookmark-end text:name="__RefHeading___Toc5460_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5462_367390978"/><text:tab/>const routes: Routes = [<text:bookmark-end text:name="__RefHeading___Toc5462_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5464_367390978"/><text:tab/> <text:s/>{ path: &apos;home&apos;, component: HomeComponent },<text:bookmark-end text:name="__RefHeading___Toc5464_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5466_367390978"/><text:tab/> <text:s/>{ path: &apos;pessoa&apos;, loadChildren: &apos;./pessoa/pessoa .module#PessoaModule&apos;},<text:bookmark-end text:name="__RefHeading___Toc5466_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5468_367390978"/><text:tab/> <text:s/>{ path: &apos;&apos;, redirectTo: &apos;home&apos;, pathMatch: &apos;full&apos;},<text:bookmark-end text:name="__RefHeading___Toc5468_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5470_367390978"/><text:tab/>];<text:bookmark-end text:name="__RefHeading___Toc5470_367390978"/></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5472_367390978"/>Atualizar o menu em app.component.html<text:bookmark-end text:name="__RefHeading___Toc5472_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5474_367390978"/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5474_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5476_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home&lt;/a&gt; |<text:bookmark-end text:name="__RefHeading___Toc5476_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5478_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>Pessoa: <text:s/><text:bookmark-end text:name="__RefHeading___Toc5478_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5480_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;pessoa/add&quot;&gt;Add&lt;/a&gt; |<text:bookmark-end text:name="__RefHeading___Toc5480_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5482_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;pessoa/filter&quot;&gt;Pesquisar&lt;/a&gt; |<text:bookmark-end text:name="__RefHeading___Toc5482_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5484_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;pessoa/list&quot;&gt;Listar&lt;/a&gt; |<text:bookmark-end text:name="__RefHeading___Toc5484_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5486_367390978"/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:tab/><text:bookmark-end text:name="__RefHeading___Toc5486_367390978"/></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5488_367390978"/>Criando a service:<text:bookmark-end text:name="__RefHeading___Toc5488_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5490_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5490_367390978"/></text:p>
+   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc5492_367390978"/><text:soft-page-break/><text:tab/>ng generate service pessoa/pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5492_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5494_367390978"/><text:tab/>verifique/adicione o service em providers no module<text:bookmark-end text:name="__RefHeading___Toc5494_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5496_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5496_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5498_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5498_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5500_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5500_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5502_367390978"/><text:tab/>------------------------------------------------------------<text:bookmark-end text:name="__RefHeading___Toc5502_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5504_367390978"/><text:tab/>MÓDULOS:<text:bookmark-end text:name="__RefHeading___Toc5504_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5506_367390978"/><text:tab/>------------------------------------------------------------<text:bookmark-end text:name="__RefHeading___Toc5506_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5508_367390978"/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5508_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5510_367390978"/><text:tab/><text:tab/>http://kazale.com/angular-2-modulos-ngmodule/<text:bookmark-end text:name="__RefHeading___Toc5510_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5512_367390978"/><text:tab/><text:tab/>https://medium.com/rocketseat/implementando-lazy-loading-no-angular-d8a6541c0580<text:bookmark-end text:name="__RefHeading___Toc5512_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5514_367390978"/><text:tab/><text:tab/>ng new lazy-app --routing<text:bookmark-end text:name="__RefHeading___Toc5514_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5516_367390978"/><text:tab/><text:tab/>cd .\lazy-app\<text:bookmark-end text:name="__RefHeading___Toc5516_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5518_367390978"/><text:tab/><text:tab/>ng generate component home<text:bookmark-end text:name="__RefHeading___Toc5518_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5520_367390978"/><text:tab/><text:tab/>ng generate module lazy --routing<text:bookmark-end text:name="__RefHeading___Toc5520_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5522_367390978"/><text:tab/><text:tab/><text:tab/>adiciona rotas em AppRoutingModule...<text:bookmark-end text:name="__RefHeading___Toc5522_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5524_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>const routes: Routes = [<text:bookmark-end text:name="__RefHeading___Toc5524_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5526_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;&apos;, redirectTo: &apos;home&apos;, pathMatch: &apos;full&apos;},<text:bookmark-end text:name="__RefHeading___Toc5526_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5528_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;home&apos;, component: HomeComponent},<text:bookmark-end text:name="__RefHeading___Toc5528_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5530_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;lazy&apos;, loadChildren: &apos;./lazy/lazy.module#LazyModule&apos;}<text:bookmark-end text:name="__RefHeading___Toc5530_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5532_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>];<text:bookmark-end text:name="__RefHeading___Toc5532_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5534_367390978"/><text:tab/><text:tab/>em app.component.html adicione:<text:bookmark-end text:name="__RefHeading___Toc5534_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5536_367390978"/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5536_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5538_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;home&quot;&gt;Home Component&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5538_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5540_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>&lt;a routerLink=&quot;lazy&quot;&gt;Lazy Module&lt;/a&gt;<text:bookmark-end text:name="__RefHeading___Toc5540_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5542_367390978"/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5542_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5544_367390978"/><text:tab/><text:tab/>cd src/app/lazy<text:bookmark-end text:name="__RefHeading___Toc5544_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5546_367390978"/><text:tab/><text:tab/>ng generate component sobre<text:bookmark-end text:name="__RefHeading___Toc5546_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5548_367390978"/><text:tab/><text:tab/>cd ../../..<text:bookmark-end text:name="__RefHeading___Toc5548_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5550_367390978"/><text:tab/><text:tab/>ng serve<text:bookmark-end text:name="__RefHeading___Toc5550_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5552_367390978"/><text:tab/><text:tab/>cd src/app/lazy<text:bookmark-end text:name="__RefHeading___Toc5552_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5554_367390978"/><text:tab/><text:tab/>ng generate component add<text:bookmark-end text:name="__RefHeading___Toc5554_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5556_367390978"/><text:tab/><text:tab/>ng generate component edit --routing<text:bookmark-end text:name="__RefHeading___Toc5556_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5558_367390978"/><text:tab/><text:tab/>ng generate component delete<text:bookmark-end text:name="__RefHeading___Toc5558_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5560_367390978"/><text:tab/><text:tab/>ng generate component list<text:bookmark-end text:name="__RefHeading___Toc5560_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5562_367390978"/><text:tab/><text:tab/><text:tab/>adiciona rotas em LazyRoutingModule...<text:bookmark-end text:name="__RefHeading___Toc5562_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5564_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>const routes: Routes = [<text:bookmark-end text:name="__RefHeading___Toc5564_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5566_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;&apos;, component: SobreComponent},<text:bookmark-end text:name="__RefHeading___Toc5566_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5568_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;add&apos;, component: AddComponent},<text:bookmark-end text:name="__RefHeading___Toc5568_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5570_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;edit&apos;, component: EditComponent},<text:bookmark-end text:name="__RefHeading___Toc5570_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5572_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;delete&apos;, component: DeleteComponent},<text:bookmark-end text:name="__RefHeading___Toc5572_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5574_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/> <text:s/>{path: &apos;list&apos;, component: ListComponent},<text:bookmark-end text:name="__RefHeading___Toc5574_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5576_367390978"/><text:tab/><text:tab/><text:tab/><text:tab/>];<text:bookmark-end text:name="__RefHeading___Toc5576_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5578_367390978"/><text:tab/><text:tab/>em sobre.component.html coloque<text:bookmark-end text:name="__RefHeading___Toc5578_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5580_367390978"/><text:tab/><text:tab/><text:tab/>&lt;nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5580_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5582_367390978"/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;add&quot;&gt;add&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5582_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5584_367390978"/><text:soft-page-break/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;edit&quot;&gt;edit&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5584_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5586_367390978"/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;delete&quot;&gt;delete&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5586_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5588_367390978"/><text:tab/><text:tab/><text:tab/> <text:s/>&lt;a routerLink=&quot;list&quot;&gt;list&lt;/a&gt; | <text:bookmark-end text:name="__RefHeading___Toc5588_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5590_367390978"/><text:tab/><text:tab/><text:tab/>&lt;/nav&gt;<text:bookmark-end text:name="__RefHeading___Toc5590_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5592_367390978"/><text:tab/><text:tab/>cd ../../..<text:bookmark-end text:name="__RefHeading___Toc5592_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5594_367390978"/><text:tab/><text:tab/>ng s<text:bookmark-end text:name="__RefHeading___Toc5594_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5596_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5596_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5598_367390978"/><text:tab/><text:tab/>ou ...<text:bookmark-end text:name="__RefHeading___Toc5598_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5600_367390978"/><text:tab/><text:tab/><text:tab/>ng g c pessoa/sobre --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5600_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5602_367390978"/><text:tab/><text:tab/><text:tab/>ng g c pessoa/add --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5602_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5604_367390978"/><text:tab/><text:tab/><text:tab/>ng g c pessoa/edit --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5604_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5606_367390978"/><text:tab/><text:tab/><text:tab/>ng g c pessoa/delete --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5606_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5608_367390978"/><text:tab/><text:tab/><text:tab/>ng g c pessoa/list --module=pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5608_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5610_367390978"/><text:tab/><text:tab/><text:tab/>ng g class pessoa/pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5610_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5612_367390978"/><text:tab/><text:tab/><text:tab/>ng g service pessoa/pessoa --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5612_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5614_367390978"/><text:tab/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5614_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5616_367390978"/>Modulos (Commons)<text:bookmark-end text:name="__RefHeading___Toc5616_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5618_367390978"/>Crie um módulo (ListCommonsModule, CadCommonsModule, ) e coloque outros módulos no imposts e os mesmos no exports.<text:bookmark-end text:name="__RefHeading___Toc5618_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5620_367390978"/>Criando Interceptors<text:bookmark-end text:name="__RefHeading___Toc5620_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5804_367390978"/>ng generate interceptor login/Auth --skipTests=true<text:bookmark-end text:name="__RefHeading___Toc5804_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5806_367390978"/>CREATE src/app/login/auth-interceptor.interceptor.ts (420 bytes)<text:bookmark-end text:name="__RefHeading___Toc5806_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5622_367390978"/>Implementar segurança (em desenvolvimento...)<text:bookmark-end text:name="__RefHeading___Toc5622_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5808_367390978"/>ng g module auth/auth --routing=true<text:bookmark-end text:name="__RefHeading___Toc5808_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5810_367390978"/>ng g c auth/gignin --module=auth<text:bookmark-end text:name="__RefHeading___Toc5810_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5812_367390978"/>ng g c auth/gignout --module=auth<text:bookmark-end text:name="__RefHeading___Toc5812_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5814_367390978"/>ng g c auth/unauthorized --module=auth<text:bookmark-end text:name="__RefHeading___Toc5814_367390978"/></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5816_367390978"/>ng g module usuario/usuario router=true<text:bookmark-end text:name="__RefHeading___Toc5816_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5818_367390978"/>ng g c usuario/usuario-add --module=usuario<text:bookmark-end text:name="__RefHeading___Toc5818_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5820_367390978"/>ng g c usuario/usuario-list --module=usuario<text:bookmark-end text:name="__RefHeading___Toc5820_367390978"/></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc844_1429466318"/>Deploy – <text:span text:style-name="T50">sem docker</text:span><text:bookmark-end text:name="__RefHeading___Toc844_1429466318"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc893_3770173281"/>Preparando o banco de dados<text:bookmark-end text:name="__RefHeading___Toc893_3770173281"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6086_367390978"/>Backend<text:bookmark-end text:name="__RefHeading___Toc6086_367390978"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc895_3770173281"/>Instalando backend como serviço no linux<text:bookmark-end text:name="__RefHeading___Toc895_3770173281"/></text:h>
-   <text:p text:style-name="P41"><text:tab/><text:tab/>cd /c/home/gustavo/desenv/workspace-github/demo/target/<text:line-break/><text:tab/><text:tab/>cp demo-0.0.1-SNAPSHOT.jar demo.jar<text:line-break/><text:tab/><text:tab/>scp demo.jar gustavo@192.168.1.119:~<text:line-break/><text:tab/><text:tab/>ssh gustavo@192.168.1.119<text:line-break/><text:tab/><text:tab/>sudo rm /etc/init.d/demo<text:line-break/><text:tab/><text:tab/>sudo rm /var/apps/demo/demo.jar<text:line-break/><text:tab/><text:tab/>sudo mv demo.jar /var/apps/demo/<text:line-break/><text:tab/><text:tab/>ls -lah /var/apps/demo/<text:line-break/><text:line-break/><text:tab/><text:tab/>sudo ln -s /var/apps/demo/demo.jar /etc/init.d/demo<text:line-break/><text:line-break/><text:tab/><text:tab/>sudo update-rc.d demo defaults<text:line-break/><text:tab/><text:tab/>service demo start<text:line-break/><text:tab/><text:tab/>service demo status<text:line-break/><text:line-break/><text:tab/><text:tab/>/etc/init.d/demo stop<text:line-break/><text:tab/><text:tab/>/etc/init.d/demo start<text:line-break/><text:tab/><text:tab/>http://192.168.1.119:8085/demo/pessoas</text:p>
-   <text:p text:style-name="P32"><text:a xlink:type="simple" xlink:href="http://192.168.1.119:8085/demo/pessoas" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://192.168.1.119:8085/demo/pessoas</text:a></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5822_367390978"/><text:tab/><text:tab/>cd /c/home/gustavo/desenv/workspace-github/demo/target/<text:line-break/><text:tab/><text:tab/>cp demo-0.0.1-SNAPSHOT.jar demo.jar<text:line-break/><text:tab/><text:tab/>scp demo.jar gustavo@192.168.1.119:~<text:line-break/><text:tab/><text:tab/>ssh gustavo@192.168.1.119<text:line-break/><text:tab/><text:tab/>sudo rm /etc/init.d/demo<text:line-break/><text:tab/><text:tab/>sudo rm /var/apps/demo/demo.jar<text:line-break/><text:soft-page-break/><text:tab/><text:tab/>sudo mv demo.jar /var/apps/demo/<text:line-break/><text:tab/><text:tab/>ls -lah /var/apps/demo/<text:line-break/><text:line-break/><text:tab/><text:tab/>sudo ln -s /var/apps/demo/demo.jar /etc/init.d/demo<text:line-break/><text:line-break/><text:tab/><text:tab/>sudo update-rc.d demo defaults<text:line-break/><text:tab/><text:tab/>service demo start<text:line-break/><text:tab/><text:tab/>service demo status<text:line-break/><text:line-break/><text:tab/><text:tab/>/etc/init.d/demo stop<text:line-break/><text:tab/><text:tab/>/etc/init.d/demo start<text:line-break/><text:tab/><text:tab/>http://192.168.1.119:8085/demo/pessoas<text:bookmark-end text:name="__RefHeading___Toc5822_367390978"/></text:p>
+   <text:p text:style-name="Standard"><text:bookmark-start text:name="__RefHeading___Toc5624_367390978"/><text:a xlink:type="simple" xlink:href="http://192.168.1.119:8085/demo/pessoas" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://192.168.1.119:8085/demo/pessoas</text:a><text:bookmark-end text:name="__RefHeading___Toc5624_367390978"/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6088_367390978"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc6088_367390978"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc897_3770173281"/>Configurando o NGINX<text:bookmark-end text:name="__RefHeading___Toc897_3770173281"/></text:h>
-   <text:p text:style-name="P31"/>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P30"/>
-   <text:h text:style-name="P73" text:outline-level="1"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P120"/>
+   <text:h text:style-name="P113" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc5626_3673909781"/>Deploy <text:span text:style-name="T41">com Docker</text:span><text:bookmark-end text:name="__RefHeading___Toc5626_3673909781"/></text:h>
+   <text:h text:style-name="P111" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc5628_3673909781"/>Montagem da Máquina<text:bookmark-end text:name="__RefHeading___Toc5628_3673909781"/></text:h>
+   <text:p text:style-name="P49">Instalar a vm linux com virtualbox</text:p>
+   <text:p text:style-name="P49">configurar rede</text:p>
+   <text:p text:style-name="P49">acessar via ssh</text:p>
+   <text:h text:style-name="P111" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc5630_3673909781"/>Instalação do docker<text:bookmark-end text:name="__RefHeading___Toc5630_3673909781"/></text:h>
+   <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="Docker.fodt" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T41">Docker.fods</text:span></text:a><text:span text:style-name="T41"> / Instalação</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1681_685359436"/>Preparação de ambiente<text:bookmark-end text:name="__RefHeading___Toc1681_685359436"/></text:h>
+   <text:p text:style-name="code">ssh gustavo@192.168.0.2</text:p>
+   <text:p text:style-name="P50">Cr<text:span text:style-name="T49">ia</text:span>r pasta para o frontend</text:p>
+   <text:p text:style-name="P85">mkdir -<text:span text:style-name="T42">p ~</text:span>/dev/catalogo-musical-<text:span text:style-name="T46">app</text:span>/<text:span text:style-name="T46">frontend</text:span></text:p>
+   <text:p text:style-name="P50">Crair pasta para o backend</text:p>
+   <text:p text:style-name="P85">mkdir -<text:span text:style-name="T42">p ~</text:span>/dev/catalogo-musical-<text:span text:style-name="T46">app</text:span>/<text:span text:style-name="T46">backend/target</text:span></text:p>
+   <text:p text:style-name="P49">Criar pasta para o banco de dados</text:p>
+   <text:p text:style-name="code">????</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1683_685359436"/>Fazer a atualização <text:span text:style-name="T46">do artefato e enviar</text:span>:<text:bookmark-end text:name="__RefHeading___Toc1683_685359436"/></text:h>
+   <text:p text:style-name="P137">docker:</text:p>
+   <text:p text:style-name="P82">cd /home/gustavo/dev/workspace-coder/catalogo-musical-api</text:p>
+   <text:p text:style-name="P82">scp docker-compose.yml gustavo@192.168.0.2:~/dev/catalogo-musical-app/</text:p>
+   <text:p text:style-name="P82">scp Dockerfile-compose-backend gustavo@192.168.0.2:~/dev/catalogo-musical-app/<text:span text:style-name="T47">backend</text:span></text:p>
+   <text:p text:style-name="P138">na vm, alterar o docker-compose.yaml</text:p>
+   <text:p text:style-name="code">/home/gustavo/dev/catalogo-musical-app/frontend/dist/catalogo-musical:/usr/share/nginx/html</text:p>
+   <text:p text:style-name="P134"/>
+   <text:p text:style-name="P134">backend:</text:p>
+   <text:p text:style-name="code">cd /home/gustavo/dev/workspace-coder/catalogo-musical-api</text:p>
+   <text:p text:style-name="code">mvn clean install</text:p>
+   <text:p text:style-name="P81">scp target/catalogo-musical-api.jar <text:span text:style-name="T46">\</text:span> gustavo@192.168.0.2:<text:span text:style-name="T42">~</text:span>/dev/catalogo-musical-<text:span text:style-name="T46">app</text:span>/<text:span text:style-name="T46">backend/target</text:span></text:p>
+   <text:p text:style-name="P133"/>
+   <text:p text:style-name="P135">frontend:</text:p>
+   <text:p text:style-name="P81">cd /home/gustavo/dev/workspace-coder/catalogo-musical</text:p>
+   <text:p text:style-name="P81">npm install</text:p>
+   <text:p text:style-name="P81">ng build --configuration=hom</text:p>
+   <text:p text:style-name="P81">scp -r ./dist/ gustavo@192.168.0.2:~/dev/catalogo-musical-app/frontend/</text:p>
+   <text:p text:style-name="P136"/>
+   <text:p text:style-name="P147">:<text:span text:style-name="T47">wq</text:span></text:p>
+   <text:p text:style-name="P147">Logar na VM</text:p>
+   <text:p text:style-name="code">ssh <text:a xlink:type="simple" xlink:href="mailto:gustavo@192.168.0.2" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">gustavo@192.168.0.2</text:a></text:p>
+   <text:p text:style-name="Text_20_Body_20_coder"/>
+   <text:p text:style-name="P137"><text:soft-page-break/>Buildar imagem do backend</text:p>
+   <text:p text:style-name="P83">cd ~/dev/catalogo-musical-app/backend</text:p>
+   <text:p text:style-name="code"><text:span text:style-name="T47">sudo </text:span>docker build -f Dockerfile-compose-backend --tag=catalogo-musical-api-compose:latest .</text:p>
+   <text:p text:style-name="P83">sudo docker images</text:p>
+   <text:p text:style-name="P83">cd ..</text:p>
+   <text:p text:style-name="P83">sudo docker-compose up</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body">Tes<text:span text:style-name="T48">tar com</text:span></text:p>
+   <text:p text:style-name="code">http://192.168.0.2</text:p>
+   <text:h text:style-name="P111" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc5632_3673909781"/>Deploy local dos artefatos<text:bookmark-end text:name="__RefHeading___Toc5632_3673909781"/></text:h>
+   <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc5634_3673909781"/>Backend<text:bookmark-end text:name="__RefHeading___Toc5634_3673909781"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc5636_3673909781"/>Frontend<text:bookmark-end text:name="__RefHeading___Toc5636_3673909781"/></text:h>
+   <text:h text:style-name="P111" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc5638_3673909781"/>Envio dos artefatos para o servidor<text:bookmark-end text:name="__RefHeading___Toc5638_3673909781"/></text:h>
+   <text:p text:style-name="P49">Enviar os artefatos para as pastas da aplicação</text:p>
+   <text:p text:style-name="Text_20_body">Scp gustavo@192.168.0.2:</text:p>
+   <text:h text:style-name="P111" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc5640_3673909781"/>Subir o docker com os artefatos<text:bookmark-end text:name="__RefHeading___Toc5640_3673909781"/></text:h>
+   <text:p text:style-name="P49"><text:bookmark-start text:name="__RefHeading___Toc5915_367390978"/><text:tab/><text:tab/><text:bookmark-end text:name="__RefHeading___Toc5915_367390978"/></text:p>
   </office:text>
  </office:body>
 </office:document>

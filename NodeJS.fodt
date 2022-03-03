@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2021-07-28T07:58:16.748715726</dc:date><meta:editing-duration>P1DT16H9M27S</meta:editing-duration><meta:editing-cycles>210</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="273" meta:word-count="1171" meta:character-count="9012" meta:non-whitespace-character-count="7940"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">45156</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18302</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17355</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2304</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">55935</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">45156</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">18300</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">62509</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">19960781</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1122625</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Consolas" svg:font-family="Consolas, Menlo, Monaco, &apos;Lucida Console&apos;, &apos;Liberation Mono&apos;, &apos;DejaVu Sans Mono&apos;, &apos;Bitstream Vera Sans Mono&apos;, &apos;Courier New&apos;, monospace, sans-serif"/>
+  <style:font-face style:name="Droid Sans Mono" svg:font-family="&apos;Droid Sans Mono&apos;, monospace, monospace, &apos;Droid Sans Fallback&apos;"/>
+  <style:font-face style:name="Karla" svg:font-family="Karla, Arial, sans-serif"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Courier 10 Pitch" svg:font-family="&apos;Courier 10 Pitch&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
+  <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-adornments="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#333333" style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="7pt" style:font-name-asian="DejaVu Sans Mono" style:font-family-asian="&apos;DejaVu Sans Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="2cm" fo:margin-right="0cm" fo:text-indent="-0.6cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="1cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="FreeMono" fo:font-family="FreeMono" style:font-style-name="Regular" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="User_20_Index_20_1" style:display-name="User Index 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="User_20_Index_20_2" style:display-name="User Index 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Addressee" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.998cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" style:border-line-width-bottom="0cm 0.004cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="code" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#333333" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:background-color="#333333"/>
+   <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-family="&apos;Courier 10 Pitch&apos;" style:font-style-name="Regular" style:font-pitch="fixed"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.997cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.392cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="DejaVu Sans Mono" style:font-family-asian="&apos;DejaVu Sans Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Teletype" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="DejaVu Sans Mono" style:font-family-asian="&apos;DejaVu Sans Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0cm" fo:padding-bottom="0.074cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.99pt solid #000000" style:join-border="false"/>
+   <style:text-properties fo:color="#b2b2b2" officeooo:rsid="0034fe89" officeooo:paragraph-rsid="0034fe89"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties fo:color="#b2b2b2" officeooo:rsid="0034fe89" officeooo:paragraph-rsid="0034fe89"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#b2b2b2" fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:padding-left="0cm" fo:padding-right="0cm" fo:padding-top="0cm" fo:padding-bottom="0.074cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.99pt solid #000000" style:join-border="false"/>
+   <style:text-properties fo:color="#b2b2b2" officeooo:rsid="0034fe89" officeooo:paragraph-rsid="0034fe89"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties fo:color="#b2b2b2" officeooo:rsid="0034fe89" officeooo:paragraph-rsid="0034fe89"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#b2b2b2" fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="00ab4440"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="00ac4cf8"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="00b6437d"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="00b733e7"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="00b73d94"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties style:line-height-at-least="0.503cm"/>
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00b169cf" officeooo:paragraph-rsid="00b169cf"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00b2fa77" officeooo:paragraph-rsid="00b2fa77"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00cbcf69" officeooo:paragraph-rsid="00cbcf69"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00c96764" officeooo:paragraph-rsid="00c96764"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00c96764" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00d3490f" officeooo:paragraph-rsid="00d3490f"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00d58473" officeooo:paragraph-rsid="00d58473"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="00e5afa9" officeooo:paragraph-rsid="00e5afa9"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00e378f8" officeooo:paragraph-rsid="00e378f8"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00e5afa9" officeooo:paragraph-rsid="00e5afa9"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="011a3557" officeooo:paragraph-rsid="011a3557"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0126ecec" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0127461b" officeooo:paragraph-rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0128cff1" officeooo:paragraph-rsid="0128cff1"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0129ada6" officeooo:paragraph-rsid="0129ada6"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="code">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="2.228cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="012b8a8f" officeooo:paragraph-rsid="012b8a8f"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="011dce85"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="01241b4e" officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01241b4e" officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="01259490" officeooo:paragraph-rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" officeooo:paragraph-rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Contents_20_5">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.392cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties officeooo:rsid="0127461b" officeooo:paragraph-rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Contents_20_5">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.392cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="013093cd" officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties officeooo:rsid="0127461b" officeooo:paragraph-rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="013093cd" officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00a9b320"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="00ab4440"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="00ac4cf8"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="00b4cd39"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00b6437d"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="00b733e7"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00bc366e"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="00c5507e"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="00c727d2"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties officeooo:rsid="00c80244"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="00ca2c35"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="00cd2236"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="00cfd233"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="00d3490f"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="00d47bba"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#242729" style:font-name="Consolas" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#eff0f1" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="01178e66"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="011a573e"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="01259490"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="0128cff1"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="0129ada6"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="012b8a8f"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="13.3000001907349pt" fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="013093cd" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="13.3000001907349pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="13.3000001907349pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:font-size="10pt" officeooo:rsid="013093cd" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-size="7pt" style:font-name-asian="DejaVu Sans Mono" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-size="7pt" officeooo:rsid="013093cd" style:font-name-asian="DejaVu Sans Mono" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+   </style:section-properties>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="0.612cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.499cm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:date-style style:name="N37" number:automatic-order="true">
+   <number:day number:style="long"/>
+   <number:text>/</number:text>
+   <number:month number:style="long"/>
+   <number:text>/</number:text>
+   <number:year/>
+  </number:date-style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:header>
+    <text:p text:style-name="P1">Coder Sistemas</text:p>
+    <text:p text:style-name="P2"/>
+   </style:header>
+   <style:footer>
+    <text:variable-decls>
+     <text:variable-decl office:value-type="float" text:name="SenhaRoot"/>
+    </text:variable-decls>
+    <text:p text:style-name="P3"><text:variable-set text:name="SenhaRoot" text:formula="ooow:Gustavo1978" office:value-type="float" office:value="0" style:data-style-name="N0"/><text:date style:data-style-name="N37" text:date-value="2018-10-12T22:08:06.972219496" text:fixed="true">12/10/18</text:date><text:s/>- <text:page-number text:select-page="current">7</text:page-number></text:p>
+   </style:footer>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:variable-decls>
+    <text:variable-decl office:value-type="float" text:name="SenhaRoot"/>
+   </text:variable-decls>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:table-of-content text:style-name="Sect1" text:name="Table of Contents1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Conteúdo</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
+      <text:p text:style-name="Contents_20_Heading">Conteúdo</text:p>
+     </text:index-title>
+     <text:p text:style-name="P53"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalando<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc920_863864341" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">No Windows<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc922_863864341" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">No Linux<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3251_2904486788" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Como Bixa<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3253_2904486788" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Como macho<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3255_2904486788" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Com</text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3255_2904486788" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:span text:style-name="T28">o</text:span></text:a><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3255_2904486788" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"> bixinha moderna<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_3711433821" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">NPM – Node Package Manager<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc622_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Express:<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc657_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando aplicação de forma detalhada<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc595_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Desinstalando o jade<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc597_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Express com nodemon (auto-reload):<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc599_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Valores de parâmetros:<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P95"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc659_3704798910" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando aplicação de forma objetiva<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1156_3810212009" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">baixe as dependencias<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1045_3810212009" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalando o mongoose<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1158_3810212009" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Criando a conexão<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P96"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1191_3810212009" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Versionando:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P52"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc328_3711433821" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Exemplos<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc301_3711433821" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Autoload<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc303_3711433821" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Executando scripts<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P54"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc305_3711433821" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lendo arquivos<text:tab/>7</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:h text:style-name="P103" text:outline-level="1"/>
+   <text:p text:style-name="Text_20_body"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:p>
+   <text:h text:style-name="P83" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
+   <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="https://nodejs.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://nodejs.org</text:a></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Instalando<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc920_863864341"/>No Windows<text:bookmark-end text:name="__RefHeading___Toc920_863864341"/></text:h>
+   <text:p text:style-name="code">….</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc922_863864341"/>No Linux<text:bookmark-end text:name="__RefHeading___Toc922_863864341"/></text:h>
+   <text:h text:style-name="P112" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc3251_2904486788"/>Como Bixa<text:bookmark-end text:name="__RefHeading___Toc3251_2904486788"/></text:h>
+   <text:p text:style-name="code">sudo apt update</text:p>
+   <text:p text:style-name="code">sudo apt upgrade</text:p>
+   <text:p text:style-name="code">sudo sudo apt install nodejs</text:p>
+   <text:p text:style-name="code">sudo apt install npm</text:p>
+   <text:p text:style-name="code">nodejs -v</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P51">#Para instalar o último node (que agora era o 12) tive que fazer:</text:p>
+   <text:p text:style-name="code">sudo apt update</text:p>
+   <text:p text:style-name="code"><text:span text:style-name="T34">s</text:span>udo curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -</text:p>
+   <text:p text:style-name="code">sudo apt-get install -y nodejs</text:p>
+   <text:p text:style-name="code">nodejs -v</text:p>
+   <text:p text:style-name="code">history</text:p>
+   <text:p text:style-name="code"/>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc3253_2904486788"/>Como macho<text:bookmark-end text:name="__RefHeading___Toc3253_2904486788"/></text:h>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://woliveiras.com.br/posts/como-instalar-o-nodejs-via-binários-tar-xz-no-linux/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://woliveiras.com.br/posts/como-instalar-o-nodejs-via-bin%C3%A1rios-tar-xz-no-linux/</text:a></text:p>
+   <text:p text:style-name="P116"/>
+   <text:p text:style-name="P116"># vai para o local de download</text:p>
+   <text:p text:style-name="code">cd ~/dev/tools/</text:p>
+   <text:p text:style-name="P116"/>
+   <text:p text:style-name="P116"># baixe o artefato (baixe a versão estável e atualizada)</text:p>
+   <text:p text:style-name="code">wget https://nodejs.org/dist/v14.17.3/node-v14.17.3-linux-x64.tar.xz</text:p>
+   <text:p text:style-name="P117"/>
+   <text:p text:style-name="P116"># Dê permissão para alterar o diretóro /opt</text:p>
+   <text:p text:style-name="code">sudo chmod -R 755 /opt</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P116">#Descomparte o arquivo no /opt</text:p>
+   <text:p text:style-name="code">sudo tar xf node-v14.17.3-linux-x64.tar.xz <text:s/>--directory /opt</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P116">#cole no final dos arquivos ~/.bashrc e <text:span text:style-name="T38">~</text:span>/.profile o seguinte códido (atualise conforme a versão do sou NodeJS)</text:p>
+   <text:p text:style-name="P116"/>
+   <text:p text:style-name="P116"># NodeJS</text:p>
+   <text:p text:style-name="P116">export NODEJS_HOME=/opt/node-vx.y.z-linux-x64/bin</text:p>
+   <text:p text:style-name="P116">export PATH=$NODEJS_HOME:$PATH</text:p>
+   <text:p text:style-name="P116"/>
+   <text:p text:style-name="code">code ~/.bashrc</text:p>
+   <text:p text:style-name="code"><text:tab/><text:span text:style-name="T35">cole o conte</text:span><text:span text:style-name="T39">ú</text:span><text:span text:style-name="T35">do</text:span></text:p>
+   <text:p text:style-name="code">code <text:span text:style-name="T39">~</text:span>/.profile </text:p>
+   <text:p text:style-name="P117"><text:tab/><text:span text:style-name="T35">cole o conte</text:span><text:span text:style-name="T39">ú</text:span><text:span text:style-name="T35">do</text:span></text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P117"><text:span text:style-name="T35"># execute o com</text:span><text:span text:style-name="T39">a</text:span><text:span text:style-name="T35">nto abaixo para recarregar os arquivos e poder testar a instalação</text:span></text:p>
+   <text:p text:style-name="code">cd ~</text:p>
+   <text:p text:style-name="code">. ~/.profile ~/.bashrc</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P116"># teste a instalação com o comando</text:p>
+   <text:p text:style-name="code">node -v</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="P116"># deverá aparecer</text:p>
+   <text:p text:style-name="P116">v14.17.3</text:p>
+   <text:h text:style-name="P113" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc3255_2904486788"/><text:soft-page-break/><text:span text:style-name="T35">Com</text:span><text:span text:style-name="T36">o</text:span><text:span text:style-name="T35"> bixinha moderna</text:span><text:bookmark-end text:name="__RefHeading___Toc3255_2904486788"/></text:h>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc326_3711433821"/>NPM – Node Package Manager<text:bookmark-end text:name="__RefHeading___Toc326_3711433821"/></text:h>
+   <text:p text:style-name="P115"><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P115"><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P115"><text:span text:style-name="T37"/></text:p>
+   <text:p text:style-name="P115"><text:span text:style-name="T37">n</text:span><text:span text:style-name="T27">pm install</text:span></text:p>
+   <text:p text:style-name="P33">Local</text:p>
+   <text:p text:style-name="P33">Global (-g)</text:p>
+   <text:p text:style-name="P33">--save</text:p>
+   <text:p text:style-name="P33">Exemplos</text:p>
+   <text:p text:style-name="P33">sudo npm install express-generator -g</text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33">dependencias</text:p>
+   <text:p text:style-name="P33">dependencias dev</text:p>
+   <text:p text:style-name="P33">versoes, maiores, menores e tal</text:p>
+   <text:p text:style-name="P33"/>
+   <text:h text:style-name="P65" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc622_3704798910"/>Express:<text:bookmark-end text:name="__RefHeading___Toc622_3704798910"/></text:h>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc657_3704798910"/>Gerando aplicação de forma detalhada<text:bookmark-end text:name="__RefHeading___Toc657_3704798910"/></text:h>
+   <text:p text:style-name="P50">gustavo@foguetinho:~/dev/CursoNode/exemplo04$ sudo npm install express-generator -g</text:p>
+   <text:p text:style-name="P50">npm WARN deprecated mkdirp@0.5.1: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)</text:p>
+   <text:p text:style-name="P50">/usr/local/bin/express -&gt; /usr/local/lib/node_modules/express-generator/bin/express-cli.js</text:p>
+   <text:p text:style-name="P50">+ express-generator@4.16.1</text:p>
+   <text:p text:style-name="P50">added 10 packages from 13 contributors in 2.888s</text:p>
+   <text:p text:style-name="P50">gustavo@foguetinho:~/dev/CursoNode/exemplo04$ express</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"><text:s text:c="2"/>warning: the default view engine will not be jade in future releases</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>warning: use `--view=jade&apos; or `--help&apos; for additional options</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : public/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : public/javascripts/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : public/images/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : public/stylesheets/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : public/stylesheets/style.css</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : routes/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : routes/index.js</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : routes/users.js</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : views/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : views/error.jade</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : views/index.jade</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : views/layout.jade</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : app.js</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : package.json</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : bin/</text:p>
+   <text:p text:style-name="P50"><text:s text:c="3"/>create : bin/www</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"><text:s text:c="3"/>install dependencies:</text:p>
+   <text:p text:style-name="P50"><text:s text:c="5"/>$ npm install</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"><text:s text:c="3"/>run the app:</text:p>
+   <text:p text:style-name="P50"><text:s text:c="5"/>$ DEBUG=exemplo04:* npm start</text:p>
+   <text:p text:style-name="P50"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P50">gustavo@foguetinho:~/dev/CursoNode/exemplo04$ </text:p>
+   <text:p text:style-name="P91"/>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc595_3704798910"/>Desinstalando o jade<text:bookmark-end text:name="__RefHeading___Toc595_3704798910"/></text:h>
+   <text:p text:style-name="P91">O express inclui o jade que é uma forma de escrever html via yaml. Não é o que queremos no momento.</text:p>
+   <text:p text:style-name="P91">Vamos trocar ele pelo ejs para não termos problema com o curso até o momento.</text:p>
+   <text:p text:style-name="P91">Em app.js temos a linha</text:p>
+   <text:p text:style-name="P50">app.set(&apos;view engine&apos;, &apos;jade&apos;);</text:p>
+   <text:p text:style-name="P91">substituiremos por </text:p>
+   <text:p text:style-name="P50">app.set(&apos;view engine&apos;, &apos;ejs&apos;);</text:p>
+   <text:p text:style-name="P91"/>
+   <text:p text:style-name="P91">remo<text:span text:style-name="T30">vendo o jade:</text:span></text:p>
+   <text:p text:style-name="P50">gustavo@foguetinho:~/dev/CursoNode/exemplo04$ sudo npm remove jade --save</text:p>
+   <text:p text:style-name="P50">npm WARN deprecated jade@1.11.0: Jade has been renamed to pug, please install the latest version of pug instead of jade</text:p>
+   <text:p text:style-name="P50">npm WARN deprecated constantinople@3.0.2: Please update to at least constantinople 3.1.1</text:p>
+   <text:p text:style-name="P50">npm WARN deprecated mkdirp@0.5.4: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)</text:p>
+   <text:p text:style-name="P50">npm WARN deprecated transformers@2.1.0: Deprecated, use jstransformer</text:p>
+   <text:p text:style-name="P50">npm notice created a lockfile as package-lock.json. You should commit this file.</text:p>
+   <text:p text:style-name="P50">added 53 packages from 36 contributors and audited 140 packages in 7.451s</text:p>
+   <text:p text:style-name="P50">found 0 vulnerabilities</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P91">instala o ejs</text:p>
+   <text:p text:style-name="P50">gustavo@foguetinho:~/dev/CursoNode/exemplo04$ sudo npm install ejs --save</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50">&gt; ejs@3.0.2 postinstall /home/gustavo/dev/CursoNode/exemplo04/node_modules/ejs</text:p>
+   <text:p text:style-name="P50">&gt; node --harmony ./postinstall.js</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50">Thank you for installing EJS: built with the Jake JavaScript build tool (https://jakejs.com/)</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50">+ ejs@3.0.2</text:p>
+   <text:p text:style-name="P50">added 1 package from 1 contributor and audited 141 packages in 2.435s</text:p>
+   <text:p text:style-name="P50">found 0 vulnerabilities</text:p>
+   <text:p text:style-name="P91"/>
+   <text:p text:style-name="P91">renomear as extensções dos arquivos de <text:span text:style-name="T28">views</text:span><text:span text:style-name="T29">/xxx.jade para .ejs</text:span></text:p>
+   <text:p text:style-name="P92"/>
+   <text:p text:style-name="P92">substitua os valores dos arquivos colocando html</text:p>
+   <text:p text:style-name="P92">utilize o template do VSCode html:5</text:p>
+   <text:p text:style-name="P50">&lt;html lang=&quot;pt-br&quot;&gt;</text:p>
+   <text:p text:style-name="P50">&lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheets/style.css&quot;&gt;</text:p>
+   <text:p text:style-name="P50">Firará assim:</text:p>
+   <text:p text:style-name="P50">&lt;!DOCTYPE html&gt;</text:p>
+   <text:p text:style-name="P50">&lt;html lang=&quot;pt-br&quot;&gt;</text:p>
+   <text:p text:style-name="P50">&lt;head&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;meta charset=&quot;UTF-8&quot;&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheets/style.css&quot;&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;title&gt;Document&lt;/title&gt;</text:p>
+   <text:p text:style-name="P50">&lt;/head&gt;</text:p>
+   <text:p text:style-name="P50">&lt;body&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;h1&gt;OK&lt;/h1&gt;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>&lt;p&gt;Welcome to express&lt;/p&gt;</text:p>
+   <text:p text:style-name="P50">&lt;/body&gt;</text:p>
+   <text:p text:style-name="P50">&lt;/html&gt;</text:p>
+   <text:p text:style-name="P92"/>
+   <text:p text:style-name="P92">rode com</text:p>
+   <text:p text:style-name="P92">npm start</text:p>
+   <text:p text:style-name="P92">que dentro da tag script do package.json temos</text:p>
+   <text:p text:style-name="P92">node ./bin/www</text:p>
+   <text:p text:style-name="P92"/>
+   <text:p text:style-name="P92">O que acontece é o seguinte. O “npm start” executa o trecho dentro de package.json “scrips” / “start” que executa “node ./bin/www”.</text:p>
+   <text:p text:style-name="P92">O “www” é um arquivo javascript sem extençao e é o configurador da aplicação que chama outro configurador que é o app.js</text:p>
+   <text:p text:style-name="P92"/>
+   <text:p text:style-name="P92">Resumindo, em routes temos os controllers de cada página, em views temos as páginas</text:p>
+   <text:p text:style-name="P92">Podemos exibir as variáveis dos controlers com a expressão &lt;%=minhaVariavel%&gt; do ejs.</text:p>
+   <text:p text:style-name="P92"/>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc597_3704798910"/><text:soft-page-break/>Express com nodemon (auto-reload):<text:bookmark-end text:name="__RefHeading___Toc597_3704798910"/></text:h>
+   <text:p text:style-name="P92"/>
+   <text:p text:style-name="P93">Beleza. Entendemos o fluxo então para não termos mais que fazer refresh vamos fazer com que rode pelo nodemon.</text:p>
+   <text:p text:style-name="P93">Vamos alerar</text:p>
+   <text:p text:style-name="P50">“node ./bin/www”</text:p>
+   <text:p text:style-name="P93">para </text:p>
+   <text:p text:style-name="P49">“node<text:span text:style-name="T30">mon</text:span> ./bin/www”</text:p>
+   <text:p text:style-name="P93">que está em <text:span text:style-name="T27">dentro de package.json, “scrips”, “start”</text:span></text:p>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc599_3704798910"/>Valores de parâmetros:<text:bookmark-end text:name="__RefHeading___Toc599_3704798910"/></text:h>
+   <text:p text:style-name="P93">Em index.js</text:p>
+   <text:p text:style-name="P50">router.get(&apos;/&apos;, function(req, res, next) {</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>let title = &apos;Express&apos;;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>if(req.query.title){</text:p>
+   <text:p text:style-name="P50"><text:s text:c="4"/>title = req.query.title;</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>}</text:p>
+   <text:p text:style-name="P50"><text:s text:c="2"/>res.render(&apos;index&apos;, { title: title });</text:p>
+   <text:p text:style-name="P50">});</text:p>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P93"/>
+   <text:h text:style-name="P94" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc659_3704798910"/>Gerando aplicação de forma objetiva<text:bookmark-end text:name="__RefHeading___Toc659_3704798910"/></text:h>
+   <text:p text:style-name="code">express aula05 --ejs</text:p>
+   <text:p text:style-name="P34">Dica:</text:p>
+   <text:p text:style-name="P50">express --help</text:p>
+   <text:p text:style-name="code">-view &lt;engine&gt; <text:s/>add view &lt;engine&gt; support (dust|ejs|hbs|hjs|jade|pug|twig|vash) (defaults to jade)</text:p>
+   <text:h text:style-name="P97" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc1156_3810212009"/>baixe as dependencias<text:bookmark-end text:name="__RefHeading___Toc1156_3810212009"/></text:h>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ sudo npm install</text:p>
+   <text:p text:style-name="code">audited 141 packages in 1.905s</text:p>
+   <text:p text:style-name="code">found 0 vulnerabilities</text:p>
+   <text:p text:style-name="code"/>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc1045_3810212009"/>Instalando o mongoose<text:bookmark-end text:name="__RefHeading___Toc1045_3810212009"/></text:h>
+   <text:p text:style-name="P34">O mongoose é uma lib que trasuz os objetos do MondoDB para javascript, além de fazer conversão de tipos, validação, consultas exc...</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ sudo npm install mongoose --save</text:p>
+   <text:p text:style-name="code">[sudo] password for gustavo: </text:p>
+   <text:p text:style-name="code">npm notice created a lockfile as package-lock.json. You should commit this file.</text:p>
+   <text:p text:style-name="code">+ mongoose@5.9.7</text:p>
+   <text:p text:style-name="code">added 30 packages from 18 contributors and audited 38 packages in 5.928s</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code">1 package is looking for funding</text:p>
+   <text:p text:style-name="code"><text:s text:c="2"/>run `npm fund` for details</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code">found 0 vulnerabilities</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc1158_3810212009"/>Criando a conexão<text:bookmark-end text:name="__RefHeading___Toc1158_3810212009"/></text:h>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ mkdir libs</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05/libs$ vi <text:span text:style-name="T31">libs/</text:span>connect_db.js</text:p>
+   <text:p text:style-name="P35">Cole:</text:p>
+   <text:p text:style-name="code">var mongoose = require(&apos;mongoose&apos;);</text:p>
+   <text:p text:style-name="code">var db;</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code">module.exports = function(){</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>if(!db){</text:p>
+   <text:p text:style-name="code"><text:s text:c="8"/>db = mongoose.connect(&apos;mongodb://localhost/app_teste&apos;);</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>return db;</text:p>
+   <text:p text:style-name="code">}</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ mkdir model</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ touch model/tasks.js</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ </text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/></text:p>
+   <text:p text:style-name="code">module.exports = function(){</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>var db = require(&apos;./../libs/connect_db&apos;)();</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>var Schema = require(&apos;mongoose&apos;).Schema;</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="code"><text:s text:c="4"/>var task = Schema({</text:p>
+   <text:p text:style-name="code"><text:s text:c="8"/>title: String, </text:p>
+   <text:p text:style-name="code"><text:s text:c="8"/>description: String,</text:p>
+   <text:p text:style-name="code"><text:s text:c="8"/>status: Boolean</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>});</text:p>
+   <text:p text:style-name="code"><text:s text:c="4"/>return db.model(&apos;task&apos;, task);</text:p>
+   <text:p text:style-name="code">}</text:p>
+   <text:p text:style-name="code"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P35">no index.js adicionar o model tasks</text:p>
+   <text:p text:style-name="code"><text:span text:style-name="T32">linha 3: </text:span>var model = require(&apos;./../model/tasks&apos;)();</text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P36">e mais coisas no item.js</text:p>
+   <text:h text:style-name="Heading_20_5" text:outline-level="5"><text:bookmark-start text:name="__RefHeading___Toc1191_3810212009"/>Versionando:<text:bookmark-end text:name="__RefHeading___Toc1191_3810212009"/></text:h>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ git init</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ vi .gitignore</text:p>
+   <text:p text:style-name="code">node_modules</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ git add .</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode/exemplo05/aula05$ git commit -m “Primeiro commit”</text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/</text:a></text:p>
+   <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://mongoosejs.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://mongoosejs.com/</text:a></text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="P76" text:outline-level="2"/>
+   <text:h text:style-name="P76" text:outline-level="2"/>
+   <text:h text:style-name="P76" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc328_3711433821"/>Exemplos<text:bookmark-end text:name="__RefHeading___Toc328_3711433821"/></text:h>
+   <text:h text:style-name="P62" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc301_3711433821"/>Autoload<text:bookmark-end text:name="__RefHeading___Toc301_3711433821"/></text:h>
+   <text:p text:style-name="P33">Utiliza-se o nodemon para termos um auto-refresh ao salvar.</text:p>
+   <text:p text:style-name="P33">Instalando:</text:p>
+   <text:p text:style-name="code">sudo npm install -g nodemon</text:p>
+   <text:p text:style-name="P33">e ao invés de utilizar o comando</text:p>
+   <text:p text:style-name="code"><text:span text:style-name="T27">node</text:span> server.js </text:p>
+   <text:p text:style-name="P33">utilize</text:p>
+   <text:p text:style-name="code">nodemon server.js </text:p>
+   <text:p text:style-name="Text_20_body">Pro<text:span text:style-name="T27">nto. Ao salvar será executado um refresh automático.</text:span></text:p>
+   <text:p text:style-name="P33">É possível também (nodemon --help)</text:p>
+   <text:p text:style-name="P33">ignorar arquivos (--ignore)</text:p>
+   <text:p text:style-name="P37">Se estiver usando express com ejs utilize</text:p>
+   <text:p text:style-name="code"><text:soft-page-break/>&quot;start&quot;: &quot;nodemon -e ejs,js,html,css ./bin/www&quot;</text:p>
+   <text:h text:style-name="P61" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc303_3711433821"/>Executando scripts<text:bookmark-end text:name="__RefHeading___Toc303_3711433821"/></text:h>
+   <text:p text:style-name="P31">Dentro do package.json temos </text:p>
+   <text:p text:style-name="P47">“<text:span text:style-name="T27">scripts</text:span>”: <text:span text:style-name="T27">{</text:span></text:p>
+   <text:p text:style-name="P47"><text:tab/>“<text:span text:style-name="T27">tests</text:span>”: “echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1”</text:p>
+   <text:p text:style-name="P47"/>
+   <text:p text:style-name="P48">}</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P31"/>
+   <text:p text:style-name="P33">Se e<text:span text:style-name="T33">x</text:span>ecutarmos</text:p>
+   <text:p text:style-name="code"><text:span text:style-name="T33">npm</text:span> test</text:p>
+   <text:p text:style-name="P33">Será mostrado: </text:p>
+   <text:p text:style-name="P33">Ser adicionarmos</text:p>
+   <text:p text:style-name="P47"><text:tab/>&quot;start&quot;: &quot;nodemon server.js&quot;</text:p>
+   <text:p text:style-name="P33">E executarmos</text:p>
+   <text:p text:style-name="P47"><text:tab/><text:span text:style-name="T27">npm start</text:span></text:p>
+   <text:h text:style-name="P63" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc305_3711433821"/>Lendo arquivos<text:bookmark-end text:name="__RefHeading___Toc305_3711433821"/></text:h>
+   <text:p text:style-name="P32">https://www.youtube.com/watch?v=3-UTpEjeFCs&amp;list=PLIwGdwkWhD5bCdNz62fOzSIEdM3nxRDN9&amp;index=1</text:p>
+   <text:p text:style-name="P45">vi readFiles.js</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P46">------------------------------</text:p>
+   <text:p text:style-name="P46"/>
+   <text:p text:style-name="P45">var fs = require(&apos;fs&apos;); //file system</text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P45">fs.readFile(&apos;./file/file.txt&apos;, function (err, data) {</text:p>
+   <text:p text:style-name="P45"><text:tab/>if (err) {</text:p>
+   <text:p text:style-name="P45"><text:tab/><text:tab/>throw err;</text:p>
+   <text:p text:style-name="P45"><text:tab/>}</text:p>
+   <text:p text:style-name="P45"><text:tab/>console.log(data);</text:p>
+   <text:p text:style-name="P45">});</text:p>
+   <text:p text:style-name="P46"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P89">Execute no terminal</text:p>
+   <text:p text:style-name="code">gustavo@foguetinho:~/dev/CursoNode$ node readFiles.js </text:p>
+   <text:p text:style-name="code">&lt;Buffer 4f 6b 21 21 21 21&gt;</text:p>
+   <text:p text:style-name="P87"><text:s/></text:p>
+   <text:h text:style-name="P64" text:outline-level="3"/>
+  </office:text>
+ </office:body>
+</office:document>

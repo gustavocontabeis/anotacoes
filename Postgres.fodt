@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2021-07-27T22:38:56.336474028</dc:date><meta:editing-duration>P1DT13H22M24S</meta:editing-duration><meta:editing-cycles>148</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="198" meta:word-count="1123" meta:character-count="8526" meta:non-whitespace-character-count="7061"/></office:meta>
+ <office:meta><meta:creation-date>2018-10-12T20:28:02.929459194</meta:creation-date><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2022-02-24T15:29:01.144152139</dc:date><meta:editing-duration>P1DT16H12M36S</meta:editing-duration><meta:editing-cycles>213</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="11" meta:word-count="39" meta:character-count="294" meta:non-whitespace-character-count="266"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">35851</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">22401</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">13727</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">13016</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">36096</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18258</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">1113</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">42607</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12926</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">38583</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">35851</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">13725</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">48865</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">22401</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">36094</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">40658</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">160</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
@@ -83,7 +83,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">19601143</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">20145797</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -135,11 +135,12 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
   <style:font-face style:name="Consolas" svg:font-family="Consolas, Menlo, Monaco, &apos;Lucida Console&apos;, &apos;Liberation Mono&apos;, &apos;DejaVu Sans Mono&apos;, &apos;Bitstream Vera Sans Mono&apos;, &apos;Courier New&apos;, monospace, sans-serif"/>
   <style:font-face style:name="Droid Sans Mono" svg:font-family="&apos;Droid Sans Mono&apos;, monospace, monospace, &apos;Droid Sans Fallback&apos;"/>
+  <style:font-face style:name="Karla" svg:font-family="Karla, Arial, sans-serif"/>
   <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
   <style:font-face style:name="Courier 10 Pitch" svg:font-family="&apos;Courier 10 Pitch&apos;" style:font-adornments="Regular" style:font-pitch="fixed"/>
-  <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-adornments="Regular" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
@@ -151,7 +152,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="pt" fo:country="BR" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -293,6 +294,28 @@
    <style:paragraph-properties fo:background-color="#333333"/>
    <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-family="&apos;Courier 10 Pitch&apos;" style:font-style-name="Regular" style:font-pitch="fixed"/>
   </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_5" style:display-name="Contents 5" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.997cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.392cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
@@ -305,6 +328,9 @@
   </style:style>
   <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -459,66 +485,113 @@
    <style:text-properties officeooo:rsid="011a3557" officeooo:paragraph-rsid="011a3557"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0121df7c"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0121df7c" officeooo:paragraph-rsid="0121df7c"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0126cb1e"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="code">
    <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
   </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0126ecec" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0127461b" officeooo:paragraph-rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0128cff1" officeooo:paragraph-rsid="0128cff1"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0129ada6" officeooo:paragraph-rsid="0129ada6"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="10pt" officeooo:rsid="013093cd" officeooo:paragraph-rsid="01259490" style:font-size-asian="10.5pt"/>
+  </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties style:font-name="Courier New"/>
+   <style:text-properties officeooo:paragraph-rsid="00e3131f"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties style:font-name="Courier New" officeooo:rsid="0121df7c" officeooo:paragraph-rsid="0121df7c"/>
+   <style:text-properties officeooo:rsid="011a573e" officeooo:paragraph-rsid="011a573e"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="code">
-   <style:text-properties style:font-name="Courier New" officeooo:rsid="0121df7c" officeooo:paragraph-rsid="0126cb1e"/>
+   <style:text-properties officeooo:rsid="00ab4440" officeooo:paragraph-rsid="011bf5eb"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011bf5eb"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties fo:color="#d4d4d4" style:font-name="Droid Sans Mono" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:paragraph-rsid="011bf5eb" fo:background-color="#1e1e1e"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="011c7802"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="code">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="2.228cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="012b8a8f" officeooo:paragraph-rsid="012b8a8f"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="013093cd" officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="0131d7ae" officeooo:paragraph-rsid="0131d7ae"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.889cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="18.389cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.39cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -526,84 +599,167 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="011dce85"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0122dfbc" officeooo:paragraph-rsid="0122dfbc"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01259490"/>
   </style:style>
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00a6f9c2"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00c80244"/>
+   <style:text-properties officeooo:paragraph-rsid="0126ecec"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00ad5622" officeooo:paragraph-rsid="00ad5622"/>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00e17dac"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00ce5728" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e3131f" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00e3131f"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="01241b4e" officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0131d7ae"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00dd72fa" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00e560f8" officeooo:paragraph-rsid="00e560f8"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00a6f9c2" officeooo:paragraph-rsid="00dd72fa"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.635cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01241b4e" officeooo:paragraph-rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="01259490"/>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="01259490" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="01259490" officeooo:paragraph-rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" officeooo:paragraph-rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="0124b253" officeooo:paragraph-rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="013093cd" officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.891cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Contents_20_5">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.392cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_5">
+   <style:text-properties officeooo:rsid="0127461b" officeooo:paragraph-rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0120ed38" officeooo:paragraph-rsid="0120ed38"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="16.1000003814697pt" fo:font-weight="bold" officeooo:rsid="0131d7ae" officeooo:paragraph-rsid="0131d7ae" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="16.1000003814697pt" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="16.1000003814697pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-style="normal" officeooo:rsid="0126ecec" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="code">
+   <style:text-properties officeooo:rsid="01336685" officeooo:paragraph-rsid="01336685"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00a9b320"/>
@@ -657,25 +813,76 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#242729" style:font-name="Consolas" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#eff0f1" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="01178e66"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="011a573e"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties officeooo:rsid="011bf5eb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#222222" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Karla" fo:font-size="9.75pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#ffffff" loext:char-shading-value="0" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties officeooo:rsid="0121df7c"/>
+   <style:text-properties officeooo:rsid="01178e66"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties officeooo:rsid="012520a4"/>
+   <style:text-properties officeooo:rsid="011a573e"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="0126cb1e"/>
+   <style:text-properties officeooo:rsid="011bf5eb"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="012a1f04"/>
+   <style:text-properties officeooo:rsid="0122dfbc"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="01241b4e"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="0124b253"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="01259490"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="0126ecec"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="0127461b"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="0128cff1"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="0129ada6"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="012b8a8f"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="013093cd"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="13.3000001907349pt" fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="013093cd" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="13.3000001907349pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="13.3000001907349pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="16.1000003814697pt" fo:font-weight="bold" officeooo:rsid="0131d7ae" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="16.1000003814697pt" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="16.1000003814697pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:font-size="10pt" officeooo:rsid="013093cd" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-size="7pt" style:font-name-asian="DejaVu Sans Mono" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:color="#579d1c" style:font-name="Courier 10 Pitch" fo:font-size="7pt" officeooo:rsid="013093cd" style:font-name-asian="DejaVu Sans Mono" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="0131d7ae"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -714,7 +921,7 @@
     <text:variable-decls>
      <text:variable-decl office:value-type="float" text:name="SenhaRoot"/>
     </text:variable-decls>
-    <text:p text:style-name="P3"><text:variable-set text:name="SenhaRoot" text:formula="ooow:Gustavo1978" office:value-type="float" office:value="0" style:data-style-name="N0"/><text:date style:data-style-name="N37" text:date-value="2018-10-12T22:08:06.972219496" text:fixed="true">12/10/18</text:date><text:s/>- <text:page-number text:select-page="current">6</text:page-number></text:p>
+    <text:p text:style-name="P3"><text:variable-set text:name="SenhaRoot" text:formula="ooow:Gustavo1978" office:value-type="float" office:value="0" style:data-style-name="N0"/><text:date style:data-style-name="N37" text:date-value="2018-10-12T22:08:06.972219496" text:fixed="true">12/10/18</text:date><text:s/>- <text:page-number text:select-page="current">2</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
@@ -819,248 +1026,22 @@
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
       <text:p text:style-name="Contents_20_Heading">Conteúdo</text:p>
      </text:index-title>
-     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Instalando<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc638_814355246" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando node (v.12)<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_5560082221" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">instalando angular-CLI<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc530_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc532_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando node + npm<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc536_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc538_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Atualizando angular-CLI<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc540_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Corrigindo erros:<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P44"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc542_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando aplicação Angular<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc674_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Antes de começar:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc676_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Workspace e estutura do projeto:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P43"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc678_732925190" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando a aplicação:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc208_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Subindo a aplicação:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc210_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Compilando a aplicação:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc212_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o componente:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc214_1813736803" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Gerando o router:<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc548_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Módulos:<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P45"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc550_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Lazy loading:<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P58"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc528_556008222" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Considerações Gerais<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P57"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc836_1429466318" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Insert com criptografia<text:tab/>2</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:h text:style-name="P59" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:h>
-   <text:h text:style-name="P56" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Instalando<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc638_814355246"/><text:span text:style-name="T16">instalando</text:span> node <text:span text:style-name="T22">(v.12)</text:span><text:bookmark-end text:name="__RefHeading___Toc638_814355246"/></text:h>
-   <text:p text:style-name="code">sudo apt update</text:p>
-   <text:p text:style-name="code">sudo apt -y upgrade</text:p>
-   <text:p text:style-name="code">sudo apt update</text:p>
-   <text:p text:style-name="code">sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates</text:p>
-   <text:p text:style-name="code">curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -</text:p>
-   <text:p text:style-name="code"><text:bookmark-start text:name="__RefHeading___Toc534_5560082221"/><text:span text:style-name="T16">instalando</text:span> npm<text:bookmark-end text:name="__RefHeading___Toc534_5560082221"/></text:p>
-   <text:p text:style-name="code">sudo apt -y install nodejs</text:p>
-   <text:p text:style-name="code">node --version</text:p>
-   <text:p text:style-name="code">v12.10.0</text:p>
-   <text:p text:style-name="code">npm --version</text:p>
-   <text:p text:style-name="code">6.10.3</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc536_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular<text:bookmark-end text:name="__RefHeading___Toc536_5560082221"/></text:h>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc538_5560082221"/><text:span text:style-name="T16">instalando</text:span> angular-CLI<text:bookmark-end text:name="__RefHeading___Toc538_5560082221"/></text:h>
-   <text:p text:style-name="code"><text:span text:style-name="T24">Sudo </text:span>npm install -g @angular/cli</text:p>
-   <text:p text:style-name="code">ng --version</text:p>
-   <text:h text:style-name="P55" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc530_556008222"/>Atualizando<text:bookmark-end text:name="__RefHeading___Toc530_556008222"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc532_556008222"/>Atualizando node <text:span text:style-name="T18">+ npm</text:span><text:bookmark-end text:name="__RefHeading___Toc532_556008222"/></text:h>
-   <text:p text:style-name="Contents_20_1"><text:bookmark-start text:name="__RefHeading___Toc534_556008222"/>https://medium.com/@dleitee/atualizando-o-node-js-para-sua-%C3%BAltima-vers%C3%A3o-8119a7f872a4<text:bookmark-end text:name="__RefHeading___Toc534_556008222"/></text:p>
-   <text:p text:style-name="Contents_20_1"/>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ node --version</text:p>
-   <text:p text:style-name="code">v10.17.0</text:p>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ <text:s/>sudo npm cache clean -f</text:p>
-   <text:p text:style-name="code">[sudo] password for gustavo: </text:p>
-   <text:p text:style-name="code">npm WARN using --force I sure hope you know what you are doing.</text:p>
+   <text:h text:style-name="P106" text:outline-level="1"/>
+   <text:p text:style-name="Text_20_body"><text:bookmark-start text:name="__RefHeading___Toc267_1861820060"/><text:bookmark-end text:name="__RefHeading___Toc267_1861820060"/></text:p>
+   <text:h text:style-name="P89" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc528_556008222"/>Considerações Gerais<text:bookmark-end text:name="__RefHeading___Toc528_556008222"/></text:h>
+   <text:p text:style-name="P30"/>
+   <text:h text:style-name="P108" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc836_1429466318"/>Insert com criptografia<text:bookmark-end text:name="__RefHeading___Toc836_1429466318"/></text:h>
    <text:p text:style-name="code"/>
+   <text:p text:style-name="P56">Create extensions pgcrypto;</text:p>
+   <text:p text:style-name="P56">select encode(digest(‘123’, sha512), hex)</text:p>
    <text:p text:style-name="code"/>
-   <text:p text:style-name="code"><text:s text:c="3"/>╭────────────────────────────────────────────────────────────────╮</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>│ <text:s text:c="63"/>│</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>│ <text:s text:c="5"/>New minor version of npm available! 6.11.3 → 6.13.0 <text:s text:c="6"/>│</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>│ <text:s text:c="2"/>Changelog: https://github.com/npm/cli/releases/tag/v6.13.0 <text:s text:c="2"/>│</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>│ <text:s text:c="14"/>Run npm install -g npm to update! <text:s text:c="15"/>│</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>│ <text:s text:c="63"/>│</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>╰────────────────────────────────────────────────────────────────╯</text:p>
-   <text:p text:style-name="code"/>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ sudo npm install -g npm</text:p>
-   <text:p text:style-name="code">/usr/bin/npm -&gt; /usr/lib/node_modules/npm/bin/npm-cli.js</text:p>
-   <text:p text:style-name="code">/usr/bin/npx -&gt; /usr/lib/node_modules/npm/bin/npx-cli.js</text:p>
-   <text:p text:style-name="code">+ npm@6.13.0</text:p>
-   <text:p text:style-name="code">added 3 packages from 2 contributors, removed 3 packages and updated 20 packages in 3.016s</text:p>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ sudo npm install -g n</text:p>
-   <text:p text:style-name="code">/usr/bin/n -&gt; /usr/lib/node_modules/n/bin/n</text:p>
-   <text:p text:style-name="code">+ n@6.1.1</text:p>
-   <text:p text:style-name="code">added 1 package from 4 contributors in 0.517s</text:p>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ sudo n stable</text:p>
-   <text:p text:style-name="code"/>
-   <text:p text:style-name="code"><text:s text:c="2"/>installing : node-v12.13.0</text:p>
-   <text:p text:style-name="code"><text:s text:c="7"/>mkdir : /usr/local/n/versions/node/12.13.0</text:p>
-   <text:p text:style-name="code"><text:s text:c="7"/>fetch : https://nodejs.org/dist/v12.13.0/node-v12.13.0-linux-x64.tar.gz</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>installed : v12.13.0 (with npm 6.12.0)</text:p>
-   <text:p text:style-name="code"/>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ node -v</text:p>
-   <text:p text:style-name="code">v10.17.0</text:p>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ </text:p>
-   <text:p text:style-name="code"/>
-   <text:p text:style-name="Contents_20_1">Reiniciei o computador...</text:p>
-   <text:p text:style-name="code">gustavo@foguetinho:~$ node -v</text:p>
-   <text:p text:style-name="code">V12.13.0</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc536_556008222"/><text:soft-page-break/>Atualizando angular<text:bookmark-end text:name="__RefHeading___Toc536_556008222"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc538_556008222"/>Atualizando angular-CLI<text:bookmark-end text:name="__RefHeading___Toc538_556008222"/></text:h>
-   <text:p text:style-name="P24"/>
-   <text:p text:style-name="P29">Verificando a versão do Angular:</text:p>
-   <text:p text:style-name="P29"/>
-   <text:p text:style-name="P40">gustavo@foguetinho:~/dev/Angular/meu-crud$ ng --version</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"><text:s text:c="5"/>_ <text:s text:c="21"/>_ <text:s text:c="16"/>____ _ <text:s text:c="4"/>___</text:p>
-   <text:p text:style-name="P40"><text:s text:c="4"/>/ \ <text:s text:c="2"/>_ __ <text:s text:c="2"/>__ _ _ <text:s text:c="2"/>_| | __ _ _ __ <text:s text:c="4"/>/ ___| | <text:s text:c="2"/>|_ _|</text:p>
-   <text:p text:style-name="P40"><text:s text:c="3"/>/ △ \ | &apos;_ \ / _` | | | | |/ _` | &apos;__| <text:s text:c="2"/>| | <text:s text:c="2"/>| | <text:s text:c="3"/>| |</text:p>
-   <text:p text:style-name="P40"><text:s text:c="2"/>/ ___ \| | | | (_| | |_| | | (_| | | <text:s text:c="5"/>| |___| |___ | |</text:p>
-   <text:p text:style-name="P40"><text:s/>/_/ <text:s text:c="2"/>\_\_| |_|\__, |\__,_|_|\__,_|_| <text:s text:c="6"/>\____|_____|___|</text:p>
-   <text:p text:style-name="P40"><text:s text:c="16"/>|___/</text:p>
-   <text:p text:style-name="P40"><text:s text:c="4"/></text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Angular CLI: 7.3.9</text:p>
-   <text:p text:style-name="P40">Node: 12.13.0</text:p>
-   <text:p text:style-name="P40">OS: linux x64</text:p>
-   <text:p text:style-name="P40">Angular: 7.2.15</text:p>
-   <text:p text:style-name="P40">... animations, common, compiler, compiler-cli, core, forms</text:p>
-   <text:p text:style-name="P40">... language-service, platform-browser, platform-browser-dynamic</text:p>
-   <text:p text:style-name="P40">... router</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40">Package <text:s text:c="26"/>Version</text:p>
-   <text:p text:style-name="P40">-----------------------------------------------------------</text:p>
-   <text:p text:style-name="P40">@angular-devkit/architect <text:s text:c="8"/>0.13.9</text:p>
-   <text:p text:style-name="P40">@angular-devkit/build-angular <text:s text:c="4"/>0.13.9</text:p>
-   <text:p text:style-name="P40">@angular-devkit/build-optimizer <text:s text:c="2"/>0.13.9</text:p>
-   <text:p text:style-name="P40">@angular-devkit/build-webpack <text:s text:c="4"/>0.13.9</text:p>
-   <text:p text:style-name="P40">@angular-devkit/core <text:s text:c="13"/>7.3.9</text:p>
-   <text:p text:style-name="P40">@angular-devkit/schematics <text:s text:c="7"/>7.3.9</text:p>
-   <text:p text:style-name="P40">@angular/cli <text:s text:c="21"/>7.3.9</text:p>
-   <text:p text:style-name="P40">@ngtools/webpack <text:s text:c="17"/>7.3.9</text:p>
-   <text:p text:style-name="P40">@schematics/angular <text:s text:c="14"/>7.3.9</text:p>
-   <text:p text:style-name="P40">@schematics/update <text:s text:c="15"/>0.13.9</text:p>
-   <text:p text:style-name="P40">rxjs <text:s text:c="29"/>6.3.3</text:p>
-   <text:p text:style-name="P40">typescript <text:s text:c="23"/>3.2.4</text:p>
-   <text:p text:style-name="P40">webpack <text:s text:c="26"/>4.29.0</text:p>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="P40"/>
-   <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="Text_20_body">execute para atualizar:</text:p>
-   <text:p text:style-name="P42">sudo npm <text:span text:style-name="T23">un</text:span>install -g @angular/cli</text:p>
-   <text:p text:style-name="P42">sudo npm install -g @angular/cli</text:p>
-   <text:p text:style-name="P32"/>
-   <text:p text:style-name="P31">Verifique novamente a versão do angular</text:p>
-   <text:p text:style-name="P41">ng --version</text:p>
-   <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P57" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc540_556008222"/>Corrigindo erros:<text:bookmark-end text:name="__RefHeading___Toc540_556008222"/></text:h>
-   <text:p text:style-name="P28">Parando o servidore do angular: </text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17">sudo kill $(sudo lsof -t -i:4200)</text:span></text:span></text:p>
-   <text:p text:style-name="P28"/>
-   <text:h text:style-name="P51" text:outline-level="2"/>
-   <text:h text:style-name="P58" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc542_556008222"/>Gerando aplicação Angular<text:bookmark-end text:name="__RefHeading___Toc542_556008222"/></text:h>
-   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc674_732925190"/>Antes de começar:<text:bookmark-end text:name="__RefHeading___Toc674_732925190"/></text:h>
-   <text:p text:style-name="P26">Verifique a versão do angular. Este tutorial foi escrito na versão 7.</text:p>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc676_732925190"/>Workspace e estutura do projeto:<text:bookmark-end text:name="__RefHeading___Toc676_732925190"/></text:h>
-   <text:p text:style-name="P27">No angular você desenvolve com workspace. Um workspace possul um ou mais projetos. Um projeto é uma estrutura padrão de arquivos que gera uma aplicação, uma biblioteca e testes end-to-end (e2e).</text:p>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc678_732925190"/>Gerando a aplicação:<text:bookmark-end text:name="__RefHeading___Toc678_732925190"/></text:h>
-   <text:p text:style-name="Preformatted_20_Text">Aqui <text:span text:style-name="T19">esta a documentação do Angular CLI (Command Line Interface) </text:span><text:a xlink:type="simple" xlink:href="https://angular.io/cli/new" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://angular.io/cli/new</text:a>.</text:p>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="P39"><text:span text:style-name="T1">n</text:span>g new minha-app</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P17">Será criado uma <text:span text:style-name="T15">p</text:span>asta com o nome do projeto e todos os arquivos necessário para o próprio. Os demais comandos no terminal devem ser a partir desta pasta principal. Não deve ser a partir da apsta app ou src <text:span text:style-name="T11">para evitar que os arquivos sejam criados em locais não esperados.</text:span></text:p>
-   <text:p text:style-name="P20">Na raiz da aplicação são criados os arquivos de configuração:</text:p>
-   <text:p text:style-name="P20">angular.json</text:p>
-   <text:p text:style-name="P20">package.json</text:p>
-   <text:p text:style-name="P20">jtconfig.json</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P19">Parametro routing</text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T1">n</text:span>g new minha-app --routing=true</text:p>
-   <text:p text:style-name="P34">cd minha-app</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc208_1813736803"/>Subindo a aplicação:<text:bookmark-end text:name="__RefHeading___Toc208_1813736803"/></text:h>
-   <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g <text:span text:style-name="T2">serve</text:span></text:p>
-   <text:p text:style-name="P22">Temos un alias para facilitar</text:p>
-   <text:p text:style-name="P34">ou ng s</text:p>
-   <text:p text:style-name="P22">Pu podemos setar um parâmetro para qual o ambiente queremos buildar a aplicação antes (conforme arquivos de configuração “enviroment”</text:p>
-   <text:p text:style-name="P34">ou ng s eng=des</text:p>
-   <text:p text:style-name="P16">O parâmetro -–open abre o browser assim que aplicação sobe e fecha o browser assom que a aplicação fecha.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc210_1813736803"/>Compilando a aplicação:<text:bookmark-end text:name="__RefHeading___Toc210_1813736803"/></text:h>
-   <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g <text:span text:style-name="T2">build</text:span></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc212_1813736803"/>Gerando o componente:<text:bookmark-end text:name="__RefHeading___Toc212_1813736803"/></text:h>
-   <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g generate component meuComponente</text:p>
-   <text:p text:style-name="P7">ou</text:p>
-   <text:p text:style-name="code"><text:span text:style-name="T1">n</text:span>g g c meuComponente</text:p>
-   <text:p text:style-name="P12">ou <text:span text:style-name="T20">para não gerar arquivos de testes</text:span></text:p>
-   <text:p text:style-name="P35">ng g c meuComponente --skipTests=true</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14">O que ocorre ao execucar o comentoa cima? Conforme o log abaixo, são gerados quatro arquivos. Um html, um css, um controller em TypeScript e uma classe de teste deste controller.</text:p>
-   <text:p text:style-name="P15">Também é atualizado o appModule que é o módulo principal da aplicação. O componente recém criado é adicionado no array “declarations”. <text:span text:style-name="T4">Na Anotação @NgModule possuímos alguns atributos como declarations, imports, providers e bootstrap. Falaremos sobre módulos mais adiante.</text:span></text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="code">gustavo@foguetinho:~/dev/workspace/cursoAngularUdemy/cursoAngularUdemy$ ng g c usuario</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.css (0 bytes)</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.html (26 bytes)</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.spec.ts (635 bytes)</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.component.ts (273 bytes)</text:p>
-   <text:p text:style-name="code">UPDATE src/app/app.module.ts (630 bytes)</text:p>
-   <text:h text:style-name="P47" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc214_1813736803"/>Gerando o router:<text:bookmark-end text:name="__RefHeading___Toc214_1813736803"/></text:h>
-   <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">ng generate module app-routing --flat –module=app</text:span></text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Gera um módulo de rotas e atualiza o appModule.</text:span></text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Crie uma constant do tipo Routes e coloque as rotas nele.</text:span></text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">import { Routes, RouterModule } from &apos;@angular/router&apos;;</text:span></text:p>
-   <text:p text:style-name="code"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">const routes: Routes = [</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;menu&apos;, component: MenuComponent},</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;home&apos;, component: HomeComponent},</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;usuario&apos;, component: UsuarioComponent},</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="Source_20_Text"><text:tab/>{path: &apos;*&apos;, redirectTo: &apos;/home&apos;}</text:span></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="Source_20_Text">];</text:span></text:p>
-   <text:p text:style-name="P37"/>
-   <text:p text:style-name="P10"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="P10"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T6">Adicione nos imports.</text:span></text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="Source_20_Text">imports: [</text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="Source_20_Text"><text:tab/>CommonModule, RouterModule.forRoot(routes)</text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="Source_20_Text">],</text:span></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Agora coloque ele no exports.</text:span></text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="Source_20_Text">exports: [RouterModule]</text:span></text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Agora coloque appcomponent.html o cara responsável por exibir o conteúdo da rota selecionada.</text:span></text:span></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="Source_20_Text">&lt;router-outlet&gt;&lt;/router-outlet&gt;</text:span></text:p>
-   <text:p text:style-name="P13"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="https://angular.io/tutorial/toh-pt5" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Source_20_Text">https://angular.io/tutorial/toh-pt5</text:span></text:a></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="Source_20_Text"/></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Criando links:</text:span></text:span></text:p>
-   <text:p text:style-name="code"><text:span text:style-name="Source_20_Text">&lt;a routerLink=&quot;configuracao&quot;&gt;Configuração&lt;/a&gt;</text:span></text:p>
-   <text:h text:style-name="P48" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc548_556008222"/><text:span text:style-name="T10">Módulos</text:span>:<text:bookmark-end text:name="__RefHeading___Toc548_556008222"/></text:h>
-   <text:p text:style-name="P23"><text:span text:style-name="T13">O módulo é uma forma de agrupar vários componentes, services, diretivas pipes etc… </text:span>Todo componente precisa estar dento de um múdulo. O módulo principal é o AppModule. Ao criar o projeto com ng new o AppModule é criado. Para criar um módulo usamos o comando ng generate module nomeDoModulo. Depois é preciso adicionar o componende no módulo e no AppModule é necessario retirar o componente e colocar o módulo.</text:p>
-   <text:p text:style-name="P23"/>
-   <text:p text:style-name="P38">ng g<text:span text:style-name="T11">enerate </text:span>module usuario</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.module.spec.ts (283 bytes)</text:p>
-   <text:p text:style-name="code">CREATE src/app/usuario/usuario.module.ts (191 bytes)</text:p>
-   <text:h text:style-name="P49" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc550_556008222"/>Lazy loading:<text:bookmark-end text:name="__RefHeading___Toc550_556008222"/></text:h>
-   <text:p text:style-name="Preformatted_20_Text">Sem o lazyLoading, todos os arquivos javascript são baixados de uma única vez causando um esforço desnecessário. O LazyLoading faz com que a aplicação carregue os arquivos por demanda. Muito útil para aplicações grandes.</text:p>
-   <text:p text:style-name="Preformatted_20_Text">No exemplo utilizaremos o componente usuário <text:span text:style-name="T8">que já foi criado anteriormente.</text:span></text:p>
-   <text:p text:style-name="Preformatted_20_Text">Cri<text:span text:style-name="T7">e</text:span> o m<text:span text:style-name="T7">ó</text:span>dul<text:span text:style-name="T7">o usuário</text:span></text:p>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="code">ng generate module usuario</text:p>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="Preformatted_20_Text">Foi criado um módulo para o usuário que vai encapsular o componente usuário. Para isso, vamos colocar o componente usuário dentro do módulo. Fazemos isto no atributo “declarations” do módulo. Agora o modulo usuário contém o componente usuarop dentro dele. </text:p>
-   <text:p text:style-name="code">@NgModule({</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>imports: [</text:p>
-   <text:p text:style-name="code"><text:s text:c="4"/>CommonModule</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>],</text:p>
-   <text:p text:style-name="code"><text:s text:c="3"/>declarations: [UsuarioComponent]</text:p>
-   <text:p text:style-name="code">})</text:p>
-   <text:p text:style-name="code">export class UsuarioModule { }</text:p>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="T9">Ao criar um componente ele é incluído no appModule. T</text:span>ir<text:span text:style-name="T7">e</text:span> do appModule e vai para o module específico.</text:p>
-   <text:p text:style-name="Preformatted_20_Text">ng generate module configuracao/configuracao</text:p>
-   <text:p text:style-name="Preformatted_20_Text">vá no Molule e coloque os compoonentes dentro do declaration.</text:p>
-   <text:p text:style-name="Preformatted_20_Text"/>
-   <text:p text:style-name="Preformatted_20_Text">No rotes mapeamos uma rota para um componente. <text:span text:style-name="T12">Para fazermos o lazy loading devemos criar um módulo. Depois devemos criar um arquivo de rota dentro de cada pasta aonde existe um módulo e seus componentes para lá criarmos rotas especícicas.</text:span></text:p>
+   <text:p text:style-name="P110">insert into xxx (senha, nome) values (<text:span text:style-name="T41">select encode(digest(‘123’, sha512), hex), ‘</text:span>Gustavo da Silva<text:span text:style-name="T41">’</text:span>)</text:p>
+   <text:p text:style-name="code">….</text:p>
+   <text:h text:style-name="P69" text:outline-level="3"/>
   </office:text>
  </office:body>
 </office:document>
